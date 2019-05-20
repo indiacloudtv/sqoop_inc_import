@@ -1,0 +1,22 @@
+# Sqoop User Guide
+
+Url: https://sqoop.apache.org/docs/1.4.2/SqoopUserGuide.html
+
+https://sqoop.apache.org/docs/1.4.2/SqoopUserGuide.html#_incremental_imports
+
+Sqoop Import Command:
+
+
+Step 1: (2019-05-17)
+
+sqoop import --connect jdbc:mysql://34.73.102.250:3306/ecommerce_db --table transaction_detail_tbl --username root -password root --incremental append --check-column transaction_id --hive-database ecommerce_db --hive-table transaction_detail_tbl  --create-hive-table --hive-import -m 1;
+
+Step 2: (2019-05-18)
+
+sqoop import --connect jdbc:mysql://34.73.102.250:3306/ecommerce_db --table transaction_detail_tbl --username root -password root --incremental append --check-column transaction_id --last-value 1000 --hive-database ecommerce_db --hive-table transaction_detail_tbl --hive-import -m 1;
+
+Step 3: (2019-05-19)
+
+sqoop import --connect jdbc:mysql://34.73.102.250:3306/ecommerce_db --table transaction_detail_tbl --username root -password root --incremental append --check-column transaction_id --last-value 2000 --hive-database ecommerce_db --hive-table transaction_detail_tbl --hive-import -m 1;
+
+

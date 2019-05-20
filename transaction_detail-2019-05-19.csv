@@ -1,0 +1,1001 @@
+transaction_amount,transaction_card_type,transaction_ecommerce_website_name,transaction_country_name,transaction_datetime,transaction_id,transaction_city_name,transaction_product_name
+202.77,Maestro,www.ebay.com,Inida,19-05-2019 00:08,2001,New Delhi,Laptop
+121.3,Maestro,www.amazon.com,Inida,19-05-2019 02:52,2002,New Delhi,Wrist Band
+420.07,MasterCard,www.snapdeal.com,India,19-05-2019 23:50,2003,Kolkata,TV
+49.72,Visa,www.snapdeal.com,India,19-05-2019 10:44,2004,Hyderabad,Wrist Watch
+192.04,Maestro,www.flipkart.com,Thailand,19-05-2019 07:22,2005,Bangkok,Desktop Computer
+528.98,MasterCard,www.amazon.com,India,19-05-2019 05:10,2006,Kolkata,TV
+460.45,Maestro,www.flipkart.com,France,19-05-2019 15:39,2007,Paris,Desktop Computer
+49.87,Maestro,www.ebay.com,Israel,19-05-2019 12:48,2008,Jerusalem,External Hard Drive
+483.96,Visa,www.snapdeal.com,India,19-05-2019 10:57,2009,Pune,TV Stand
+112.26,MasterCard,www.flipkart.com,India,19-05-2019 21:54,2010,Chennai,Pen Drive
+496.98,Visa,www.ebay.com,Thailand,19-05-2019 07:28,2011,Bangkok,TV Stand
+116.98,Maestro,www.amazon.com,United Kingdom,19-05-2019 01:07,2012,London,Wrist Watch
+75.66,Maestro,www.amazon.com,Inida,19-05-2019 21:11,2013,New Delhi,HDMI Cable
+491.29,MasterCard,www.amazon.com,United Kingdom,19-05-2019 16:30,2014,London,Mobile Phone
+17.48,MasterCard,www.amazon.com,India,19-05-2019 09:09,2015,Kolkata,External Hard Drive
+248.26,MasterCard,www.flipkart.com,India,19-05-2019 02:21,2016,Hyderabad,TV Stand
+500.93,Visa,www.snapdeal.com,India,19-05-2019 07:19,2017,Chennai,Wrist Band
+137.02,MasterCard,www.ebay.com,India,19-05-2019 10:01,2018,Kolkata,TV Stand
+433.84,Visa,www.snapdeal.com,India,19-05-2019 05:05,2019,Mumbai,External Hard Drive
+454.42,Visa,www.snapdeal.com,India,19-05-2019 00:36,2020,Bangalore,Wrist Band
+494.75,Visa,www.flipkart.com,Singapore,19-05-2019 20:41,2021,Singapore,Text Books
+118.1,Visa,www.snapdeal.com,Singapore,19-05-2019 19:34,2022,Singapore,TV
+64.49,Visa,www.flipkart.com,India,19-05-2019 04:05,2023,Chennai,Desktop Computer
+238.05,Maestro,www.flipkart.com,Italy,19-05-2019 02:11,2024,Rome,HDMI Cable
+99.14,Visa,www.snapdeal.com,United States,19-05-2019 04:00,2025,New York City,Wrist Watch
+67.02,Maestro,www.ebay.com,Singapore,19-05-2019 04:16,2026,Singapore,Wrist Band
+118.48,MasterCard,www.flipkart.com,India,19-05-2019 01:08,2027,Chennai,Wrist Watch
+85.94,Maestro,www.flipkart.com,France,19-05-2019 18:09,2028,Paris,Wrist Band
+91.94,Visa,www.amazon.com,Inida,19-05-2019 02:15,2029,New Delhi,Mobile Phone
+469.16,Visa,www.flipkart.com,Israel,19-05-2019 06:10,2030,Jerusalem,Wrist Watch
+93.06,Visa,www.ebay.com,India,19-05-2019 23:00,2031,Bangalore,Pen Drive
+400.55,Visa,www.flipkart.com,India,19-05-2019 04:03,2032,Bangalore,Desktop Computer
+115.38,Visa,www.snapdeal.com,France,19-05-2019 03:03,2033,Paris,Desktop Computer
+168.67,MasterCard,www.flipkart.com,Inida,19-05-2019 10:26,2034,New Delhi,Wrist Band
+54.18,Maestro,www.snapdeal.com,Singapore,19-05-2019 10:49,2035,Singapore,Wrist Watch
+462.72,Maestro,www.ebay.com,India,19-05-2019 05:47,2036,Mumbai,TV Stand
+338.23,Visa,www.flipkart.com,India,19-05-2019 10:16,2037,Bangalore,Wrist Band
+267.73,MasterCard,www.flipkart.com,Inida,19-05-2019 02:34,2038,New Delhi,Mobile Phone
+103.69,MasterCard,www.flipkart.com,Italy,19-05-2019 12:35,2039,Rome,External Hard Drive
+529.77,Maestro,www.flipkart.com,India,19-05-2019 17:48,2040,Kolkata,Wrist Watch
+321.63,MasterCard,www.ebay.com,India,19-05-2019 07:43,2041,Chennai,TV
+142.04,Visa,www.snapdeal.com,India,19-05-2019 18:23,2042,Bangalore,Desktop Computer
+297.86,Visa,www.amazon.com,Thailand,19-05-2019 15:05,2043,Bangkok,HDMI Cable
+110.49,Visa,www.snapdeal.com,Inida,19-05-2019 00:32,2044,New Delhi,HDMI Cable
+525.64,Visa,www.ebay.com,Italy,19-05-2019 11:11,2045,Rome,Wrist Band
+492.44,Maestro,www.flipkart.com,United Kingdom,19-05-2019 18:35,2046,London,TV Stand
+150.96,MasterCard,www.ebay.com,Thailand,19-05-2019 12:20,2047,Bangkok,TV
+401.3,Maestro,www.snapdeal.com,India,19-05-2019 08:34,2048,Pune,HDMI Cable
+270.77,Visa,www.ebay.com,India,19-05-2019 22:35,2049,Chennai,Mobile Phone
+395.53,Maestro,www.snapdeal.com,India,19-05-2019 11:52,2050,Kolkata,Pen Drive
+182.74,Visa,www.snapdeal.com,India,19-05-2019 01:02,2051,Chennai,HDMI Cable
+234.23,Visa,www.ebay.com,Italy,19-05-2019 01:33,2052,Rome,Pen Drive
+517.21,Visa,www.amazon.com,India,19-05-2019 18:41,2053,Mumbai,Pen Drive
+273.74,MasterCard,www.amazon.com,United Kingdom,19-05-2019 21:33,2054,London,Mobile Phone
+388.03,Visa,www.flipkart.com,India,19-05-2019 08:11,2055,Bangalore,HDMI Cable
+440.54,Maestro,www.ebay.com,France,19-05-2019 05:49,2056,Paris,Pen Drive
+230.35,MasterCard,www.ebay.com,Thailand,19-05-2019 08:52,2057,Bangkok,Wrist Band
+533.03,MasterCard,www.ebay.com,India,19-05-2019 11:51,2058,Hyderabad,Laptop
+262.65,MasterCard,www.flipkart.com,India,19-05-2019 20:13,2059,Kolkata,Desktop Computer
+550.36,MasterCard,www.ebay.com,Thailand,19-05-2019 08:50,2060,Bangkok,HDMI Cable
+78.77,MasterCard,www.snapdeal.com,Thailand,19-05-2019 07:08,2061,Bangkok,HDMI Cable
+297.12,MasterCard,www.amazon.com,India,19-05-2019 14:19,2062,Hyderabad,LAN Cable
+53.55,Maestro,www.ebay.com,India,19-05-2019 09:49,2063,Chennai,HDMI Cable
+364.68,MasterCard,www.snapdeal.com,India,19-05-2019 16:55,2064,Bangalore,Wrist Watch
+25.39,MasterCard,www.amazon.com,United Kingdom,19-05-2019 22:21,2065,London,Pen Drive
+229.81,Visa,www.amazon.com,India,19-05-2019 14:18,2066,Mumbai,Mobile Phone
+193.48,Maestro,www.flipkart.com,India,19-05-2019 00:02,2067,Bangalore,Pen Drive
+15.62,MasterCard,www.flipkart.com,India,19-05-2019 18:04,2068,Hyderabad,Wrist Band
+132.19,Visa,www.amazon.com,India,19-05-2019 15:28,2069,Pune,Wrist Watch
+128.5,MasterCard,www.amazon.com,India,19-05-2019 13:17,2070,Pune,HDMI Cable
+101.34,Visa,www.ebay.com,Inida,19-05-2019 22:30,2071,New Delhi,External Hard Drive
+475.98,Maestro,www.snapdeal.com,United Kingdom,19-05-2019 21:45,2072,London,Laptop
+491.16,MasterCard,www.ebay.com,India,19-05-2019 20:06,2073,Mumbai,Mobile Phone
+255.43,Maestro,www.flipkart.com,Singapore,19-05-2019 03:45,2074,Singapore,Pen Drive
+69.36,Visa,www.flipkart.com,United States,19-05-2019 16:32,2075,New York City,Laptop
+525.14,Maestro,www.amazon.com,India,19-05-2019 01:11,2076,Mumbai,TV
+27.48,Maestro,www.snapdeal.com,India,19-05-2019 08:59,2077,Hyderabad,Text Books
+215.73,Visa,www.amazon.com,Italy,19-05-2019 02:32,2078,Rome,LAN Cable
+291.78,MasterCard,www.amazon.com,United Kingdom,19-05-2019 15:28,2079,London,Laptop
+492.28,Visa,www.amazon.com,India,19-05-2019 03:03,2080,Hyderabad,Wrist Band
+180.6,Maestro,www.ebay.com,Singapore,19-05-2019 07:59,2081,Singapore,External Hard Drive
+382.53,MasterCard,www.amazon.com,Singapore,19-05-2019 00:47,2082,Singapore,LAN Cable
+438.19,MasterCard,www.ebay.com,Italy,19-05-2019 20:11,2083,Rome,Wrist Band
+442.11,Maestro,www.snapdeal.com,France,19-05-2019 15:10,2084,Paris,Pen Drive
+311.23,Maestro,www.ebay.com,Inida,19-05-2019 18:24,2085,New Delhi,LAN Cable
+316.19,MasterCard,www.amazon.com,India,19-05-2019 00:19,2086,Kolkata,Pen Drive
+90.27,Maestro,www.ebay.com,Thailand,19-05-2019 19:32,2087,Bangkok,Wrist Band
+187.65,MasterCard,www.amazon.com,France,19-05-2019 06:56,2088,Paris,Text Books
+106.68,MasterCard,www.ebay.com,India,19-05-2019 04:50,2089,Mumbai,Wrist Watch
+94.37,Visa,www.snapdeal.com,Israel,19-05-2019 14:45,2090,Jerusalem,Text Books
+239.83,Visa,www.snapdeal.com,United States,19-05-2019 06:50,2091,New York City,Laptop
+521.8,Visa,www.ebay.com,India,19-05-2019 00:50,2092,Mumbai,TV Stand
+360.24,Maestro,www.snapdeal.com,Thailand,19-05-2019 06:32,2093,Bangkok,TV
+494.31,MasterCard,www.amazon.com,India,19-05-2019 00:21,2094,Bangalore,Desktop Computer
+18.66,Maestro,www.flipkart.com,France,19-05-2019 01:23,2095,Paris,Pen Drive
+25.22,Visa,www.ebay.com,India,19-05-2019 00:23,2096,Pune,Pen Drive
+149.37,Visa,www.snapdeal.com,India,19-05-2019 11:42,2097,Bangalore,LAN Cable
+19.04,MasterCard,www.snapdeal.com,Israel,19-05-2019 07:03,2098,Jerusalem,Wrist Band
+40.8,Visa,www.snapdeal.com,Singapore,19-05-2019 10:06,2099,Singapore,Wrist Band
+444.4,MasterCard,www.flipkart.com,United Kingdom,19-05-2019 20:12,2100,London,LAN Cable
+418.41,Visa,www.amazon.com,India,19-05-2019 07:59,2101,Mumbai,Text Books
+165.85,MasterCard,www.flipkart.com,India,19-05-2019 18:36,2102,Hyderabad,TV
+35.41,Visa,www.snapdeal.com,Thailand,19-05-2019 23:03,2103,Bangkok,TV Stand
+320.6,MasterCard,www.flipkart.com,France,19-05-2019 17:40,2104,Paris,TV Stand
+204.05,Maestro,www.amazon.com,Thailand,19-05-2019 11:00,2105,Bangkok,TV Stand
+110.96,Visa,www.amazon.com,Thailand,19-05-2019 05:50,2106,Bangkok,Wrist Band
+488.42,MasterCard,www.snapdeal.com,Inida,19-05-2019 09:10,2107,New Delhi,Wrist Watch
+478.79,Visa,www.snapdeal.com,India,19-05-2019 02:02,2108,Mumbai,Wrist Band
+66.02,Maestro,www.ebay.com,France,19-05-2019 10:04,2109,Paris,Text Books
+192.96,Maestro,www.snapdeal.com,India,19-05-2019 05:38,2110,Pune,External Hard Drive
+462.26,MasterCard,www.ebay.com,India,19-05-2019 16:53,2111,Pune,HDMI Cable
+9.47,Maestro,www.amazon.com,Thailand,19-05-2019 05:16,2112,Bangkok,Wrist Band
+269.47,Visa,www.amazon.com,Inida,19-05-2019 16:16,2113,New Delhi,External Hard Drive
+371.31,Visa,www.amazon.com,Israel,19-05-2019 08:59,2114,Jerusalem,LAN Cable
+158.82,MasterCard,www.amazon.com,Inida,19-05-2019 15:37,2115,New Delhi,Mobile Phone
+359.45,Maestro,www.ebay.com,United States,19-05-2019 03:34,2116,New York City,Mobile Phone
+117.77,MasterCard,www.amazon.com,India,19-05-2019 23:42,2117,Hyderabad,Pen Drive
+439.83,Visa,www.snapdeal.com,India,19-05-2019 05:43,2118,Pune,TV Stand
+484.52,Visa,www.ebay.com,India,19-05-2019 06:56,2119,Hyderabad,Laptop
+136.25,Maestro,www.amazon.com,Italy,19-05-2019 05:59,2120,Rome,Wrist Band
+373.47,Visa,www.snapdeal.com,Inida,19-05-2019 00:21,2121,New Delhi,Wrist Watch
+176.74,Visa,www.snapdeal.com,India,19-05-2019 04:44,2122,Pune,LAN Cable
+104.11,MasterCard,www.amazon.com,Singapore,19-05-2019 22:27,2123,Singapore,Text Books
+404.16,Visa,www.amazon.com,France,19-05-2019 21:53,2124,Paris,Text Books
+376.43,Visa,www.flipkart.com,United Kingdom,19-05-2019 10:52,2125,London,External Hard Drive
+7.42,MasterCard,www.flipkart.com,India,19-05-2019 18:04,2126,Kolkata,Wrist Band
+282.61,Maestro,www.snapdeal.com,United States,19-05-2019 19:34,2127,New York City,TV Stand
+302.36,MasterCard,www.snapdeal.com,Italy,19-05-2019 20:29,2128,Rome,Laptop
+310.33,Visa,www.flipkart.com,Thailand,19-05-2019 19:25,2129,Bangkok,Wrist Band
+298.64,Visa,www.amazon.com,India,19-05-2019 16:55,2130,Pune,Desktop Computer
+173.25,MasterCard,www.snapdeal.com,France,19-05-2019 18:07,2131,Paris,Wrist Band
+140.43,Visa,www.ebay.com,Italy,19-05-2019 18:08,2132,Rome,Desktop Computer
+154.35,MasterCard,www.snapdeal.com,United States,19-05-2019 18:48,2133,New York City,LAN Cable
+249.4,MasterCard,www.flipkart.com,India,19-05-2019 15:40,2134,Bangalore,LAN Cable
+551.24,MasterCard,www.flipkart.com,India,19-05-2019 08:55,2135,Hyderabad,Desktop Computer
+309.22,MasterCard,www.amazon.com,Israel,19-05-2019 21:48,2136,Jerusalem,Mobile Phone
+520.03,Maestro,www.snapdeal.com,United States,19-05-2019 16:20,2137,New York City,Desktop Computer
+172.1,MasterCard,www.snapdeal.com,United States,19-05-2019 16:49,2138,New York City,External Hard Drive
+435.92,Maestro,www.flipkart.com,India,19-05-2019 19:00,2139,Mumbai,TV
+400.05,Visa,www.amazon.com,United Kingdom,19-05-2019 08:07,2140,London,External Hard Drive
+463.94,MasterCard,www.flipkart.com,India,19-05-2019 18:42,2141,Bangalore,Pen Drive
+518.95,MasterCard,www.ebay.com,United States,19-05-2019 08:25,2142,New York City,Wrist Band
+132.55,MasterCard,www.amazon.com,France,19-05-2019 11:03,2143,Paris,External Hard Drive
+287.33,MasterCard,www.ebay.com,Inida,19-05-2019 13:52,2144,New Delhi,Mobile Phone
+551.5,Visa,www.snapdeal.com,Inida,19-05-2019 21:31,2145,New Delhi,TV Stand
+96.1,Visa,www.amazon.com,United States,19-05-2019 11:18,2146,New York City,TV Stand
+386.41,Maestro,www.snapdeal.com,United States,19-05-2019 23:24,2147,New York City,LAN Cable
+473.66,Visa,www.flipkart.com,France,19-05-2019 14:55,2148,Paris,Pen Drive
+78.75,MasterCard,www.snapdeal.com,Italy,19-05-2019 21:31,2149,Rome,Wrist Band
+365.05,Visa,www.snapdeal.com,India,19-05-2019 04:45,2150,Chennai,Mobile Phone
+261.23,MasterCard,www.ebay.com,India,19-05-2019 15:38,2151,Hyderabad,Wrist Watch
+348.52,Visa,www.flipkart.com,India,19-05-2019 14:17,2152,Bangalore,Mobile Phone
+216.5,Maestro,www.ebay.com,Inida,19-05-2019 14:13,2153,New Delhi,Wrist Watch
+332.64,Maestro,www.amazon.com,France,19-05-2019 10:28,2154,Paris,Text Books
+445.28,MasterCard,www.ebay.com,Singapore,19-05-2019 16:45,2155,Singapore,LAN Cable
+500.8,MasterCard,www.amazon.com,India,19-05-2019 05:08,2156,Hyderabad,Laptop
+80.97,Visa,www.snapdeal.com,India,19-05-2019 16:23,2157,Pune,Wrist Watch
+392.27,Visa,www.ebay.com,India,19-05-2019 08:51,2158,Bangalore,Wrist Watch
+299.71,MasterCard,www.flipkart.com,India,19-05-2019 21:54,2159,Bangalore,Mobile Phone
+277.81,MasterCard,www.amazon.com,India,19-05-2019 17:26,2160,Chennai,TV
+489.47,Visa,www.snapdeal.com,India,19-05-2019 04:42,2161,Pune,HDMI Cable
+538.97,Maestro,www.snapdeal.com,Thailand,19-05-2019 00:57,2162,Bangkok,TV Stand
+164.63,Visa,www.snapdeal.com,Italy,19-05-2019 00:31,2163,Rome,TV Stand
+147.52,MasterCard,www.snapdeal.com,United Kingdom,19-05-2019 21:14,2164,London,Wrist Band
+363.62,MasterCard,www.amazon.com,France,19-05-2019 09:32,2165,Paris,Wrist Watch
+138.12,MasterCard,www.amazon.com,United States,19-05-2019 08:16,2166,New York City,Mobile Phone
+120.24,Visa,www.amazon.com,Singapore,19-05-2019 02:19,2167,Singapore,HDMI Cable
+108.59,Visa,www.ebay.com,Singapore,19-05-2019 01:46,2168,Singapore,Text Books
+376.22,MasterCard,www.amazon.com,Inida,19-05-2019 09:00,2169,New Delhi,Desktop Computer
+162.17,Visa,www.ebay.com,France,19-05-2019 02:15,2170,Paris,TV
+541.1,MasterCard,www.snapdeal.com,India,19-05-2019 04:00,2171,Chennai,Desktop Computer
+303.26,Visa,www.ebay.com,Israel,19-05-2019 15:03,2172,Jerusalem,Mobile Phone
+377.03,MasterCard,www.snapdeal.com,India,19-05-2019 02:35,2173,Pune,Mobile Phone
+336.74,Visa,www.amazon.com,India,19-05-2019 18:51,2174,Chennai,External Hard Drive
+221.04,MasterCard,www.flipkart.com,Inida,19-05-2019 20:55,2175,New Delhi,Desktop Computer
+266.12,Maestro,www.amazon.com,India,19-05-2019 06:56,2176,Pune,Wrist Watch
+359.38,MasterCard,www.snapdeal.com,United Kingdom,19-05-2019 22:57,2177,London,Wrist Watch
+327.81,Visa,www.amazon.com,India,19-05-2019 14:24,2178,Bangalore,Wrist Watch
+179.18,Visa,www.amazon.com,India,19-05-2019 03:20,2179,Hyderabad,Mobile Phone
+501.27,MasterCard,www.flipkart.com,Thailand,19-05-2019 04:47,2180,Bangkok,Pen Drive
+359.58,MasterCard,www.amazon.com,Thailand,19-05-2019 08:12,2181,Bangkok,TV Stand
+183.25,Visa,www.flipkart.com,France,19-05-2019 18:17,2182,Paris,Mobile Phone
+83.04,MasterCard,www.snapdeal.com,United Kingdom,19-05-2019 08:28,2183,London,Wrist Watch
+412.61,MasterCard,www.flipkart.com,Inida,19-05-2019 07:37,2184,New Delhi,TV Stand
+127.9,Visa,www.ebay.com,Israel,19-05-2019 12:03,2185,Jerusalem,LAN Cable
+297.93,MasterCard,www.flipkart.com,United States,19-05-2019 12:51,2186,New York City,TV
+454.61,MasterCard,www.flipkart.com,India,19-05-2019 15:12,2187,Pune,HDMI Cable
+519.4,Maestro,www.snapdeal.com,Thailand,19-05-2019 20:23,2188,Bangkok,Text Books
+141.76,Visa,www.amazon.com,India,19-05-2019 13:02,2189,Chennai,Wrist Watch
+392.09,Visa,www.flipkart.com,United Kingdom,19-05-2019 14:55,2190,London,HDMI Cable
+543.45,Visa,www.amazon.com,United States,19-05-2019 08:52,2191,New York City,Text Books
+18.9,Visa,www.flipkart.com,Inida,19-05-2019 22:26,2192,New Delhi,Laptop
+161.3,Maestro,www.snapdeal.com,United Kingdom,19-05-2019 18:20,2193,London,Text Books
+417.05,MasterCard,www.snapdeal.com,United States,19-05-2019 07:38,2194,New York City,LAN Cable
+151.47,Maestro,www.flipkart.com,Italy,19-05-2019 02:23,2195,Rome,Pen Drive
+132.75,Maestro,www.snapdeal.com,India,19-05-2019 01:35,2196,Hyderabad,TV Stand
+473.71,Maestro,www.amazon.com,Italy,19-05-2019 07:23,2197,Rome,Wrist Band
+421.34,Maestro,www.snapdeal.com,Singapore,19-05-2019 20:00,2198,Singapore,Pen Drive
+461.99,MasterCard,www.ebay.com,India,19-05-2019 00:35,2199,Pune,TV Stand
+462.13,Maestro,www.snapdeal.com,India,19-05-2019 10:59,2200,Chennai,Laptop
+184.08,Maestro,www.flipkart.com,Thailand,19-05-2019 00:34,2201,Bangkok,Desktop Computer
+457.97,Maestro,www.amazon.com,United Kingdom,19-05-2019 15:54,2202,London,HDMI Cable
+528.19,Visa,www.flipkart.com,India,19-05-2019 19:05,2203,Hyderabad,Desktop Computer
+126.98,MasterCard,www.ebay.com,India,19-05-2019 13:42,2204,Chennai,TV
+55.85,Visa,www.ebay.com,Israel,19-05-2019 14:23,2205,Jerusalem,Laptop
+423.25,Maestro,www.amazon.com,India,19-05-2019 09:08,2206,Hyderabad,TV
+413.62,MasterCard,www.snapdeal.com,Italy,19-05-2019 06:24,2207,Rome,HDMI Cable
+222.71,MasterCard,www.ebay.com,India,19-05-2019 21:35,2208,Hyderabad,TV Stand
+72.16,MasterCard,www.snapdeal.com,United States,19-05-2019 09:20,2209,New York City,Laptop
+37.11,MasterCard,www.ebay.com,India,19-05-2019 03:46,2210,Chennai,Pen Drive
+451.51,MasterCard,www.ebay.com,India,19-05-2019 22:01,2211,Mumbai,Mobile Phone
+472.95,Maestro,www.amazon.com,Singapore,19-05-2019 05:53,2212,Singapore,HDMI Cable
+184,MasterCard,www.ebay.com,India,19-05-2019 02:22,2213,Kolkata,Text Books
+337.3,Maestro,www.ebay.com,Italy,19-05-2019 10:13,2214,Rome,Desktop Computer
+346,Visa,www.flipkart.com,Singapore,19-05-2019 18:10,2215,Singapore,LAN Cable
+115.64,Maestro,www.amazon.com,France,19-05-2019 15:55,2216,Paris,TV
+433.14,Visa,www.snapdeal.com,Inida,19-05-2019 09:50,2217,New Delhi,TV
+190.14,Maestro,www.amazon.com,India,19-05-2019 23:24,2218,Kolkata,Wrist Band
+37.25,MasterCard,www.amazon.com,India,19-05-2019 04:04,2219,Chennai,Wrist Band
+117.5,Visa,www.snapdeal.com,Inida,19-05-2019 03:59,2220,New Delhi,HDMI Cable
+13.2,Maestro,www.flipkart.com,India,19-05-2019 14:39,2221,Kolkata,LAN Cable
+553.64,MasterCard,www.amazon.com,United Kingdom,19-05-2019 23:01,2222,London,Desktop Computer
+381.88,MasterCard,www.snapdeal.com,Italy,19-05-2019 18:27,2223,Rome,TV
+206.91,Visa,www.amazon.com,India,19-05-2019 02:57,2224,Hyderabad,Mobile Phone
+478.53,Maestro,www.ebay.com,India,19-05-2019 13:53,2225,Pune,Wrist Band
+25.73,Maestro,www.snapdeal.com,India,19-05-2019 03:22,2226,Mumbai,Wrist Band
+239.78,Visa,www.amazon.com,Inida,19-05-2019 03:28,2227,New Delhi,Text Books
+164.54,MasterCard,www.snapdeal.com,United Kingdom,19-05-2019 17:36,2228,London,TV Stand
+351.5,MasterCard,www.amazon.com,India,19-05-2019 11:31,2229,Mumbai,Wrist Band
+320.55,Maestro,www.amazon.com,India,19-05-2019 03:34,2230,Mumbai,Mobile Phone
+335.56,MasterCard,www.snapdeal.com,United Kingdom,19-05-2019 01:24,2231,London,HDMI Cable
+105.29,Maestro,www.ebay.com,Israel,19-05-2019 08:46,2232,Jerusalem,External Hard Drive
+62.51,Visa,www.snapdeal.com,India,19-05-2019 02:59,2233,Bangalore,Desktop Computer
+12.43,Maestro,www.flipkart.com,India,19-05-2019 01:50,2234,Bangalore,Wrist Watch
+25.27,Visa,www.flipkart.com,Singapore,19-05-2019 00:49,2235,Singapore,TV Stand
+509.56,MasterCard,www.amazon.com,India,19-05-2019 19:49,2236,Mumbai,External Hard Drive
+97.64,MasterCard,www.snapdeal.com,Italy,19-05-2019 12:48,2237,Rome,TV Stand
+278.75,MasterCard,www.snapdeal.com,India,19-05-2019 17:40,2238,Pune,Text Books
+525.19,Visa,www.snapdeal.com,Israel,19-05-2019 17:02,2239,Jerusalem,External Hard Drive
+6.83,MasterCard,www.flipkart.com,Singapore,19-05-2019 16:36,2240,Singapore,HDMI Cable
+226.64,MasterCard,www.flipkart.com,United Kingdom,19-05-2019 07:02,2241,London,Wrist Watch
+443.64,Visa,www.snapdeal.com,Singapore,19-05-2019 10:56,2242,Singapore,Desktop Computer
+124.67,Visa,www.ebay.com,Inida,19-05-2019 06:45,2243,New Delhi,TV
+218.16,Visa,www.amazon.com,France,19-05-2019 12:00,2244,Paris,External Hard Drive
+533.78,MasterCard,www.ebay.com,France,19-05-2019 00:47,2245,Paris,TV
+133.43,Maestro,www.ebay.com,Singapore,19-05-2019 01:01,2246,Singapore,TV
+507.55,Maestro,www.amazon.com,Inida,19-05-2019 03:54,2247,New Delhi,Text Books
+527,MasterCard,www.snapdeal.com,Israel,19-05-2019 08:48,2248,Jerusalem,Mobile Phone
+324.33,Maestro,www.flipkart.com,France,19-05-2019 02:31,2249,Paris,Desktop Computer
+408.07,MasterCard,www.ebay.com,India,19-05-2019 16:39,2250,Mumbai,Laptop
+264.09,MasterCard,www.amazon.com,India,19-05-2019 15:01,2251,Bangalore,Pen Drive
+97.95,MasterCard,www.snapdeal.com,Thailand,19-05-2019 08:51,2252,Bangkok,Laptop
+295.6,Maestro,www.snapdeal.com,Thailand,19-05-2019 20:04,2253,Bangkok,HDMI Cable
+47.35,Visa,www.snapdeal.com,India,19-05-2019 03:11,2254,Pune,Pen Drive
+323.05,MasterCard,www.snapdeal.com,Inida,19-05-2019 06:28,2255,New Delhi,Mobile Phone
+341.9,Maestro,www.snapdeal.com,France,19-05-2019 04:27,2256,Paris,Text Books
+297.74,Visa,www.ebay.com,Italy,19-05-2019 02:30,2257,Rome,Wrist Watch
+66.46,MasterCard,www.amazon.com,India,19-05-2019 08:22,2258,Pune,Wrist Watch
+211.41,Maestro,www.amazon.com,India,19-05-2019 05:44,2259,Mumbai,TV Stand
+273.64,Visa,www.flipkart.com,United Kingdom,19-05-2019 03:50,2260,London,Desktop Computer
+45.75,Visa,www.amazon.com,India,19-05-2019 01:45,2261,Kolkata,Wrist Watch
+338.17,Visa,www.snapdeal.com,Thailand,19-05-2019 17:51,2262,Bangkok,Pen Drive
+202.71,Visa,www.amazon.com,United States,19-05-2019 11:21,2263,New York City,Mobile Phone
+454.54,Maestro,www.flipkart.com,India,19-05-2019 13:31,2264,Chennai,Laptop
+139.12,Visa,www.amazon.com,United Kingdom,19-05-2019 17:46,2265,London,LAN Cable
+107.08,MasterCard,www.snapdeal.com,India,19-05-2019 10:51,2266,Chennai,Pen Drive
+515.69,Maestro,www.ebay.com,Singapore,19-05-2019 16:21,2267,Singapore,Laptop
+184.21,Visa,www.ebay.com,Italy,19-05-2019 15:59,2268,Rome,Desktop Computer
+209.44,Visa,www.amazon.com,Thailand,19-05-2019 09:56,2269,Bangkok,LAN Cable
+109.82,Visa,www.amazon.com,Italy,19-05-2019 21:46,2270,Rome,TV
+330.51,Maestro,www.ebay.com,India,19-05-2019 00:46,2271,Bangalore,Mobile Phone
+202.02,MasterCard,www.ebay.com,United States,19-05-2019 23:36,2272,New York City,TV Stand
+208.85,MasterCard,www.amazon.com,Thailand,19-05-2019 06:51,2273,Bangkok,TV Stand
+508.47,Maestro,www.amazon.com,India,19-05-2019 05:08,2274,Bangalore,Laptop
+12.09,Maestro,www.snapdeal.com,United States,19-05-2019 19:11,2275,New York City,TV Stand
+21.3,Maestro,www.snapdeal.com,France,19-05-2019 15:36,2276,Paris,Text Books
+96.82,Maestro,www.amazon.com,Italy,19-05-2019 03:01,2277,Rome,TV
+540.52,MasterCard,www.ebay.com,United Kingdom,19-05-2019 23:13,2278,London,Laptop
+517.73,Visa,www.ebay.com,Singapore,19-05-2019 14:23,2279,Singapore,Pen Drive
+99.07,Visa,www.snapdeal.com,India,19-05-2019 03:16,2280,Hyderabad,TV
+424.23,Visa,www.flipkart.com,India,19-05-2019 03:26,2281,Mumbai,TV
+507.63,MasterCard,www.snapdeal.com,India,19-05-2019 01:44,2282,Kolkata,External Hard Drive
+47.29,MasterCard,www.flipkart.com,Inida,19-05-2019 23:52,2283,New Delhi,Wrist Watch
+212.18,MasterCard,www.flipkart.com,Israel,19-05-2019 13:00,2284,Jerusalem,HDMI Cable
+208.74,MasterCard,www.snapdeal.com,Inida,19-05-2019 14:16,2285,New Delhi,Wrist Band
+338.11,MasterCard,www.snapdeal.com,France,19-05-2019 18:26,2286,Paris,Wrist Band
+263.82,Maestro,www.flipkart.com,United Kingdom,19-05-2019 09:39,2287,London,External Hard Drive
+389.32,MasterCard,www.snapdeal.com,Inida,19-05-2019 16:51,2288,New Delhi,External Hard Drive
+423.3,MasterCard,www.flipkart.com,Italy,19-05-2019 12:46,2289,Rome,HDMI Cable
+82.69,MasterCard,www.snapdeal.com,United States,19-05-2019 16:22,2290,New York City,External Hard Drive
+392.67,Visa,www.snapdeal.com,India,19-05-2019 03:23,2291,Pune,Mobile Phone
+393.92,Maestro,www.ebay.com,India,19-05-2019 02:06,2292,Hyderabad,External Hard Drive
+408.62,Visa,www.amazon.com,India,19-05-2019 05:52,2293,Pune,Text Books
+159.16,Maestro,www.ebay.com,India,19-05-2019 09:03,2294,Bangalore,HDMI Cable
+229.55,Maestro,www.snapdeal.com,India,19-05-2019 06:47,2295,Kolkata,Laptop
+186.76,Visa,www.snapdeal.com,India,19-05-2019 04:17,2296,Chennai,HDMI Cable
+225.42,Visa,www.flipkart.com,Thailand,19-05-2019 10:11,2297,Bangkok,TV
+538.54,MasterCard,www.ebay.com,Italy,19-05-2019 08:50,2298,Rome,TV
+221.37,Visa,www.flipkart.com,India,19-05-2019 06:56,2299,Pune,Mobile Phone
+478.22,Maestro,www.snapdeal.com,India,19-05-2019 07:20,2300,Bangalore,Wrist Band
+77.99,MasterCard,www.ebay.com,India,19-05-2019 17:53,2301,Chennai,Wrist Band
+446.32,Maestro,www.amazon.com,Italy,19-05-2019 10:21,2302,Rome,Text Books
+272.92,Maestro,www.flipkart.com,India,19-05-2019 18:05,2303,Hyderabad,HDMI Cable
+152.33,Visa,www.flipkart.com,India,19-05-2019 04:26,2304,Chennai,TV
+14.9,MasterCard,www.flipkart.com,India,19-05-2019 08:37,2305,Bangalore,Desktop Computer
+249.5,Maestro,www.snapdeal.com,India,19-05-2019 01:27,2306,Kolkata,Wrist Band
+5.82,Maestro,www.snapdeal.com,Inida,19-05-2019 11:41,2307,New Delhi,HDMI Cable
+88.31,Visa,www.ebay.com,France,19-05-2019 17:28,2308,Paris,Laptop
+355.54,MasterCard,www.snapdeal.com,Singapore,19-05-2019 23:56,2309,Singapore,Mobile Phone
+440.28,Maestro,www.ebay.com,India,19-05-2019 19:37,2310,Bangalore,TV Stand
+131.44,Visa,www.snapdeal.com,India,19-05-2019 09:39,2311,Mumbai,Wrist Watch
+543.65,Visa,www.ebay.com,India,19-05-2019 06:29,2312,Hyderabad,Wrist Band
+102.26,Visa,www.snapdeal.com,Inida,19-05-2019 23:31,2313,New Delhi,Pen Drive
+532.09,MasterCard,www.snapdeal.com,United States,19-05-2019 20:02,2314,New York City,HDMI Cable
+88.32,Visa,www.flipkart.com,United States,19-05-2019 12:38,2315,New York City,HDMI Cable
+273.4,Visa,www.snapdeal.com,Inida,19-05-2019 23:38,2316,New Delhi,External Hard Drive
+369.93,MasterCard,www.amazon.com,Thailand,19-05-2019 07:09,2317,Bangkok,Desktop Computer
+186.04,MasterCard,www.amazon.com,Singapore,19-05-2019 04:20,2318,Singapore,External Hard Drive
+52.48,Maestro,www.flipkart.com,Italy,19-05-2019 23:38,2319,Rome,LAN Cable
+94.9,Maestro,www.ebay.com,India,19-05-2019 14:53,2320,Bangalore,LAN Cable
+202.52,Visa,www.ebay.com,Israel,19-05-2019 09:11,2321,Jerusalem,Pen Drive
+272.93,Visa,www.snapdeal.com,Italy,19-05-2019 16:00,2322,Rome,External Hard Drive
+394.09,MasterCard,www.snapdeal.com,India,19-05-2019 10:29,2323,Mumbai,Desktop Computer
+432.87,MasterCard,www.flipkart.com,India,19-05-2019 01:09,2324,Mumbai,Laptop
+503.35,MasterCard,www.ebay.com,Inida,19-05-2019 01:41,2325,New Delhi,LAN Cable
+418.21,Visa,www.snapdeal.com,Italy,19-05-2019 13:03,2326,Rome,External Hard Drive
+273.66,MasterCard,www.ebay.com,India,19-05-2019 10:27,2327,Pune,HDMI Cable
+470.93,Maestro,www.flipkart.com,India,19-05-2019 05:22,2328,Chennai,Wrist Band
+211.96,Visa,www.snapdeal.com,India,19-05-2019 18:53,2329,Bangalore,LAN Cable
+71.56,Maestro,www.amazon.com,India,19-05-2019 23:44,2330,Hyderabad,Laptop
+534.6,Maestro,www.flipkart.com,Singapore,19-05-2019 17:03,2331,Singapore,Laptop
+295.5,Maestro,www.amazon.com,India,19-05-2019 15:23,2332,Pune,Wrist Watch
+448.66,Maestro,www.snapdeal.com,Israel,19-05-2019 09:19,2333,Jerusalem,Wrist Band
+134.89,Maestro,www.amazon.com,Thailand,19-05-2019 03:09,2334,Bangkok,HDMI Cable
+179.5,MasterCard,www.flipkart.com,France,19-05-2019 05:32,2335,Paris,Laptop
+423.3,Visa,www.ebay.com,United Kingdom,19-05-2019 06:16,2336,London,TV Stand
+27.42,Visa,www.amazon.com,Singapore,19-05-2019 01:30,2337,Singapore,Text Books
+390.41,Visa,www.snapdeal.com,France,19-05-2019 05:18,2338,Paris,HDMI Cable
+342.92,MasterCard,www.ebay.com,Italy,19-05-2019 19:15,2339,Rome,TV
+315.47,Maestro,www.snapdeal.com,United Kingdom,19-05-2019 13:17,2340,London,Mobile Phone
+434.52,Visa,www.flipkart.com,United States,19-05-2019 02:11,2341,New York City,Mobile Phone
+295.81,Visa,www.amazon.com,India,19-05-2019 04:44,2342,Bangalore,TV Stand
+261.92,Maestro,www.flipkart.com,India,19-05-2019 18:59,2343,Hyderabad,LAN Cable
+473.1,MasterCard,www.amazon.com,India,19-05-2019 03:00,2344,Hyderabad,Desktop Computer
+555.16,Visa,www.ebay.com,India,19-05-2019 19:26,2345,Bangalore,Laptop
+21.86,MasterCard,www.flipkart.com,Israel,19-05-2019 09:10,2346,Jerusalem,Desktop Computer
+313.36,MasterCard,www.snapdeal.com,India,19-05-2019 09:35,2347,Mumbai,Laptop
+528.36,Maestro,www.amazon.com,United Kingdom,19-05-2019 05:52,2348,London,External Hard Drive
+32.85,Maestro,www.flipkart.com,Thailand,19-05-2019 19:46,2349,Bangkok,Laptop
+448.86,Maestro,www.ebay.com,India,19-05-2019 19:55,2350,Kolkata,External Hard Drive
+513.76,Visa,www.flipkart.com,France,19-05-2019 08:59,2351,Paris,External Hard Drive
+237.88,Visa,www.snapdeal.com,Singapore,19-05-2019 18:39,2352,Singapore,Desktop Computer
+522.59,MasterCard,www.flipkart.com,India,19-05-2019 16:16,2353,Hyderabad,TV Stand
+555.39,Maestro,www.snapdeal.com,France,19-05-2019 06:53,2354,Paris,LAN Cable
+131.38,Visa,www.amazon.com,India,19-05-2019 09:47,2355,Bangalore,External Hard Drive
+352.78,Maestro,www.snapdeal.com,Singapore,19-05-2019 20:53,2356,Singapore,Mobile Phone
+194.73,Visa,www.snapdeal.com,United Kingdom,19-05-2019 15:27,2357,London,Mobile Phone
+33.17,Maestro,www.ebay.com,Thailand,19-05-2019 03:47,2358,Bangkok,Wrist Band
+243.58,Visa,www.snapdeal.com,India,19-05-2019 02:13,2359,Pune,Mobile Phone
+370.71,MasterCard,www.amazon.com,India,19-05-2019 13:48,2360,Chennai,Mobile Phone
+541.17,Visa,www.snapdeal.com,Inida,19-05-2019 00:09,2361,New Delhi,Desktop Computer
+538.16,Visa,www.snapdeal.com,Inida,19-05-2019 15:18,2362,New Delhi,Mobile Phone
+270.86,Maestro,www.amazon.com,India,19-05-2019 02:56,2363,Bangalore,Wrist Watch
+297.13,Visa,www.ebay.com,India,19-05-2019 10:43,2364,Pune,Desktop Computer
+254.23,MasterCard,www.ebay.com,India,19-05-2019 15:52,2365,Chennai,Laptop
+135.36,Maestro,www.flipkart.com,India,19-05-2019 20:10,2366,Pune,Wrist Watch
+64.65,MasterCard,www.snapdeal.com,France,19-05-2019 04:44,2367,Paris,Wrist Watch
+71.25,MasterCard,www.flipkart.com,United States,19-05-2019 06:32,2368,New York City,TV Stand
+344.38,Maestro,www.snapdeal.com,Singapore,19-05-2019 02:10,2369,Singapore,External Hard Drive
+328.75,MasterCard,www.snapdeal.com,Thailand,19-05-2019 08:23,2370,Bangkok,HDMI Cable
+360.51,Maestro,www.snapdeal.com,Thailand,19-05-2019 03:20,2371,Bangkok,Desktop Computer
+523.95,Maestro,www.flipkart.com,India,19-05-2019 06:52,2372,Chennai,Wrist Band
+128.34,Visa,www.flipkart.com,India,19-05-2019 04:54,2373,Chennai,HDMI Cable
+301.96,MasterCard,www.flipkart.com,United States,19-05-2019 10:27,2374,New York City,Text Books
+49.19,Visa,www.amazon.com,India,19-05-2019 14:43,2375,Hyderabad,Pen Drive
+288.93,MasterCard,www.ebay.com,Israel,19-05-2019 09:32,2376,Jerusalem,LAN Cable
+461.94,Visa,www.flipkart.com,Israel,19-05-2019 00:58,2377,Jerusalem,Text Books
+546.8,Maestro,www.amazon.com,United States,19-05-2019 04:38,2378,New York City,Mobile Phone
+517.91,Maestro,www.snapdeal.com,United Kingdom,19-05-2019 13:38,2379,London,HDMI Cable
+156.64,Maestro,www.amazon.com,India,19-05-2019 20:50,2380,Pune,Laptop
+280.11,MasterCard,www.ebay.com,United Kingdom,19-05-2019 23:49,2381,London,TV Stand
+515.18,Maestro,www.snapdeal.com,Italy,19-05-2019 22:03,2382,Rome,Desktop Computer
+337.44,MasterCard,www.ebay.com,India,19-05-2019 18:15,2383,Hyderabad,Wrist Band
+394.29,Maestro,www.flipkart.com,Italy,19-05-2019 10:58,2384,Rome,LAN Cable
+219.06,MasterCard,www.amazon.com,Israel,19-05-2019 19:29,2385,Jerusalem,Text Books
+98.55,Visa,www.amazon.com,India,19-05-2019 18:38,2386,Hyderabad,TV Stand
+551.08,Maestro,www.ebay.com,Israel,19-05-2019 16:07,2387,Jerusalem,TV
+483.86,Visa,www.snapdeal.com,Italy,19-05-2019 01:10,2388,Rome,LAN Cable
+420.56,Maestro,www.snapdeal.com,France,19-05-2019 06:11,2389,Paris,Mobile Phone
+535.21,MasterCard,www.ebay.com,Italy,19-05-2019 20:46,2390,Rome,Pen Drive
+12.31,MasterCard,www.snapdeal.com,India,19-05-2019 04:24,2391,Chennai,Wrist Band
+420.27,Maestro,www.amazon.com,Thailand,19-05-2019 14:48,2392,Bangkok,Wrist Band
+168.33,Maestro,www.snapdeal.com,India,19-05-2019 09:47,2393,Hyderabad,TV Stand
+97.01,Maestro,www.amazon.com,India,19-05-2019 01:52,2394,Mumbai,Laptop
+396.76,Visa,www.ebay.com,India,19-05-2019 17:19,2395,Chennai,HDMI Cable
+516.5,Maestro,www.flipkart.com,India,19-05-2019 02:52,2396,Hyderabad,External Hard Drive
+349.66,MasterCard,www.snapdeal.com,United Kingdom,19-05-2019 18:46,2397,London,Wrist Band
+210.55,Visa,www.snapdeal.com,Thailand,19-05-2019 17:48,2398,Bangkok,Wrist Watch
+416.4,MasterCard,www.snapdeal.com,India,19-05-2019 04:40,2399,Chennai,HDMI Cable
+309.54,MasterCard,www.amazon.com,Inida,19-05-2019 04:15,2400,New Delhi,Desktop Computer
+274.22,MasterCard,www.ebay.com,Inida,19-05-2019 11:25,2401,New Delhi,LAN Cable
+419.97,MasterCard,www.snapdeal.com,India,19-05-2019 05:27,2402,Bangalore,Text Books
+497.48,Maestro,www.ebay.com,India,19-05-2019 23:37,2403,Chennai,Pen Drive
+67.9,Maestro,www.flipkart.com,Israel,19-05-2019 09:34,2404,Jerusalem,Wrist Band
+324.89,Maestro,www.amazon.com,United States,19-05-2019 09:06,2405,New York City,Wrist Watch
+465.17,Visa,www.amazon.com,Singapore,19-05-2019 07:22,2406,Singapore,Text Books
+86.94,Visa,www.amazon.com,India,19-05-2019 23:36,2407,Hyderabad,Wrist Watch
+224.86,Visa,www.amazon.com,India,19-05-2019 02:19,2408,Pune,Text Books
+247.86,MasterCard,www.amazon.com,Inida,19-05-2019 03:35,2409,New Delhi,Wrist Band
+124.5,Maestro,www.flipkart.com,India,19-05-2019 10:17,2410,Kolkata,TV
+119.8,MasterCard,www.flipkart.com,Israel,19-05-2019 18:56,2411,Jerusalem,Text Books
+321.24,Visa,www.amazon.com,India,19-05-2019 07:17,2412,Kolkata,Laptop
+160.07,Maestro,www.snapdeal.com,India,19-05-2019 19:24,2413,Mumbai,Pen Drive
+323.63,MasterCard,www.amazon.com,India,19-05-2019 13:29,2414,Pune,TV Stand
+111.44,Maestro,www.snapdeal.com,France,19-05-2019 23:32,2415,Paris,Mobile Phone
+276.31,Maestro,www.amazon.com,France,19-05-2019 08:05,2416,Paris,Laptop
+491.65,MasterCard,www.snapdeal.com,Thailand,19-05-2019 22:37,2417,Bangkok,LAN Cable
+49.08,Maestro,www.ebay.com,India,19-05-2019 05:02,2418,Chennai,Mobile Phone
+386.45,Visa,www.amazon.com,United States,19-05-2019 21:48,2419,New York City,External Hard Drive
+26.11,Maestro,www.amazon.com,United States,19-05-2019 18:24,2420,New York City,TV
+286.31,Maestro,www.flipkart.com,France,19-05-2019 04:29,2421,Paris,LAN Cable
+320.68,Visa,www.flipkart.com,India,19-05-2019 20:56,2422,Bangalore,Mobile Phone
+480,MasterCard,www.amazon.com,United States,19-05-2019 11:05,2423,New York City,Mobile Phone
+524.48,Visa,www.flipkart.com,India,19-05-2019 21:52,2424,Hyderabad,Text Books
+356.81,Visa,www.amazon.com,India,19-05-2019 09:57,2425,Hyderabad,Wrist Band
+267.12,Maestro,www.snapdeal.com,India,19-05-2019 11:26,2426,Chennai,Text Books
+203.68,MasterCard,www.snapdeal.com,Thailand,19-05-2019 15:46,2427,Bangkok,Wrist Band
+540.97,Visa,www.snapdeal.com,Israel,19-05-2019 02:02,2428,Jerusalem,Laptop
+550.46,Visa,www.flipkart.com,Israel,19-05-2019 10:53,2429,Jerusalem,Wrist Watch
+276.89,MasterCard,www.flipkart.com,United Kingdom,19-05-2019 07:12,2430,London,Mobile Phone
+321.5,Visa,www.snapdeal.com,Inida,19-05-2019 23:14,2431,New Delhi,Wrist Band
+507.3,Visa,www.snapdeal.com,United States,19-05-2019 16:22,2432,New York City,HDMI Cable
+261.31,Maestro,www.snapdeal.com,India,19-05-2019 06:49,2433,Mumbai,LAN Cable
+200.21,MasterCard,www.ebay.com,United Kingdom,19-05-2019 14:05,2434,London,HDMI Cable
+320.75,Maestro,www.flipkart.com,United States,19-05-2019 19:43,2435,New York City,External Hard Drive
+457.67,Visa,www.ebay.com,United States,19-05-2019 11:56,2436,New York City,TV Stand
+504.12,Maestro,www.flipkart.com,United States,19-05-2019 23:29,2437,New York City,LAN Cable
+308.51,Maestro,www.amazon.com,Inida,19-05-2019 18:48,2438,New Delhi,Wrist Band
+528.06,MasterCard,www.amazon.com,India,19-05-2019 10:57,2439,Pune,Wrist Watch
+66.14,Visa,www.ebay.com,India,19-05-2019 06:32,2440,Mumbai,Laptop
+10.13,Visa,www.ebay.com,Italy,19-05-2019 00:08,2441,Rome,Mobile Phone
+325.82,MasterCard,www.ebay.com,India,19-05-2019 04:46,2442,Bangalore,LAN Cable
+358.11,Visa,www.amazon.com,India,19-05-2019 23:34,2443,Pune,HDMI Cable
+550.14,MasterCard,www.flipkart.com,United States,19-05-2019 08:04,2444,New York City,External Hard Drive
+250.75,MasterCard,www.flipkart.com,Inida,19-05-2019 17:22,2445,New Delhi,Pen Drive
+36.13,Maestro,www.amazon.com,Israel,19-05-2019 05:08,2446,Jerusalem,TV
+217.43,Visa,www.ebay.com,United Kingdom,19-05-2019 19:36,2447,London,Wrist Band
+86.26,Visa,www.snapdeal.com,India,19-05-2019 02:30,2448,Pune,External Hard Drive
+413.86,MasterCard,www.flipkart.com,Italy,19-05-2019 21:17,2449,Rome,TV
+288.83,Visa,www.snapdeal.com,Israel,19-05-2019 14:36,2450,Jerusalem,Desktop Computer
+70.77,Visa,www.snapdeal.com,Singapore,19-05-2019 03:36,2451,Singapore,Text Books
+281.97,MasterCard,www.ebay.com,India,19-05-2019 20:24,2452,Hyderabad,Laptop
+379.28,MasterCard,www.snapdeal.com,India,19-05-2019 20:34,2453,Mumbai,Wrist Band
+79.29,Maestro,www.snapdeal.com,Thailand,19-05-2019 12:53,2454,Bangkok,Wrist Band
+277.56,Visa,www.amazon.com,India,19-05-2019 18:34,2455,Hyderabad,External Hard Drive
+420.86,MasterCard,www.ebay.com,India,19-05-2019 16:31,2456,Kolkata,TV
+89.08,Visa,www.amazon.com,India,19-05-2019 18:42,2457,Mumbai,TV
+246.08,MasterCard,www.flipkart.com,United States,19-05-2019 09:14,2458,New York City,HDMI Cable
+363.35,Visa,www.amazon.com,Singapore,19-05-2019 00:56,2459,Singapore,Wrist Band
+363.45,MasterCard,www.ebay.com,United States,19-05-2019 04:23,2460,New York City,HDMI Cable
+316.51,MasterCard,www.ebay.com,United Kingdom,19-05-2019 14:13,2461,London,LAN Cable
+285.86,Visa,www.ebay.com,India,19-05-2019 14:43,2462,Pune,Desktop Computer
+304.13,Maestro,www.flipkart.com,United Kingdom,19-05-2019 02:52,2463,London,Desktop Computer
+135.28,MasterCard,www.amazon.com,United Kingdom,19-05-2019 04:20,2464,London,LAN Cable
+233.09,Maestro,www.flipkart.com,India,19-05-2019 00:48,2465,Kolkata,TV Stand
+402.29,MasterCard,www.snapdeal.com,France,19-05-2019 01:24,2466,Paris,Pen Drive
+367.79,Visa,www.amazon.com,United Kingdom,19-05-2019 21:54,2467,London,Text Books
+52.92,Visa,www.amazon.com,India,19-05-2019 12:03,2468,Hyderabad,Wrist Watch
+422.34,Visa,www.snapdeal.com,France,19-05-2019 13:09,2469,Paris,Laptop
+475,Maestro,www.snapdeal.com,Singapore,19-05-2019 03:56,2470,Singapore,Desktop Computer
+300.56,Maestro,www.amazon.com,Singapore,19-05-2019 13:03,2471,Singapore,Mobile Phone
+534.9,Maestro,www.amazon.com,Italy,19-05-2019 05:15,2472,Rome,Wrist Band
+439.97,Visa,www.ebay.com,India,19-05-2019 17:01,2473,Bangalore,Text Books
+288.79,Visa,www.ebay.com,India,19-05-2019 21:35,2474,Bangalore,TV
+469.59,Visa,www.amazon.com,India,19-05-2019 17:23,2475,Mumbai,Desktop Computer
+333.52,MasterCard,www.ebay.com,India,19-05-2019 08:31,2476,Pune,HDMI Cable
+201.21,Visa,www.ebay.com,India,19-05-2019 20:25,2477,Hyderabad,External Hard Drive
+447.27,Maestro,www.snapdeal.com,India,19-05-2019 03:57,2478,Kolkata,Text Books
+97.49,Maestro,www.flipkart.com,United States,19-05-2019 15:11,2479,New York City,External Hard Drive
+129.24,Visa,www.flipkart.com,France,19-05-2019 12:32,2480,Paris,Desktop Computer
+264.51,Visa,www.ebay.com,India,19-05-2019 04:44,2481,Chennai,Laptop
+412.35,MasterCard,www.amazon.com,France,19-05-2019 20:45,2482,Paris,Pen Drive
+445.63,Visa,www.ebay.com,Israel,19-05-2019 10:27,2483,Jerusalem,Desktop Computer
+522.03,Visa,www.ebay.com,India,19-05-2019 08:28,2484,Hyderabad,Wrist Band
+204.55,Visa,www.flipkart.com,Singapore,19-05-2019 21:46,2485,Singapore,Mobile Phone
+436.23,MasterCard,www.amazon.com,Inida,19-05-2019 03:53,2486,New Delhi,TV
+87.96,MasterCard,www.ebay.com,India,19-05-2019 16:56,2487,Kolkata,TV Stand
+462.2,Visa,www.snapdeal.com,United Kingdom,19-05-2019 13:32,2488,London,Wrist Watch
+359.06,MasterCard,www.flipkart.com,Italy,19-05-2019 10:25,2489,Rome,LAN Cable
+179.25,Maestro,www.amazon.com,India,19-05-2019 15:06,2490,Mumbai,Pen Drive
+86.98,Visa,www.flipkart.com,India,19-05-2019 12:45,2491,Mumbai,Laptop
+528.89,MasterCard,www.amazon.com,Thailand,19-05-2019 10:26,2492,Bangkok,Wrist Band
+56.39,Visa,www.ebay.com,India,19-05-2019 08:55,2493,Mumbai,TV Stand
+23.3,MasterCard,www.flipkart.com,India,19-05-2019 05:34,2494,Bangalore,Laptop
+198.91,Visa,www.amazon.com,Thailand,19-05-2019 09:45,2495,Bangkok,Text Books
+239.39,MasterCard,www.ebay.com,India,19-05-2019 05:27,2496,Mumbai,Laptop
+407.37,Maestro,www.snapdeal.com,France,19-05-2019 00:39,2497,Paris,Wrist Watch
+392.28,MasterCard,www.snapdeal.com,Italy,19-05-2019 02:35,2498,Rome,Desktop Computer
+440.48,Visa,www.snapdeal.com,France,19-05-2019 19:55,2499,Paris,TV Stand
+283.64,Maestro,www.flipkart.com,Thailand,19-05-2019 21:32,2500,Bangkok,External Hard Drive
+363.24,MasterCard,www.amazon.com,India,19-05-2019 02:48,2501,Bangalore,Wrist Band
+61.96,Visa,www.flipkart.com,India,19-05-2019 17:01,2502,Hyderabad,Laptop
+508.85,Maestro,www.flipkart.com,India,19-05-2019 01:02,2503,Mumbai,LAN Cable
+446.67,MasterCard,www.amazon.com,India,19-05-2019 22:30,2504,Pune,Mobile Phone
+226.24,Visa,www.snapdeal.com,India,19-05-2019 04:47,2505,Chennai,Mobile Phone
+129.81,MasterCard,www.flipkart.com,United States,19-05-2019 10:39,2506,New York City,HDMI Cable
+198.13,Maestro,www.ebay.com,United Kingdom,19-05-2019 20:25,2507,London,Wrist Watch
+551.72,MasterCard,www.flipkart.com,France,19-05-2019 21:49,2508,Paris,Laptop
+181.37,MasterCard,www.ebay.com,Singapore,19-05-2019 20:31,2509,Singapore,TV Stand
+198.45,Maestro,www.snapdeal.com,Israel,19-05-2019 03:59,2510,Jerusalem,Laptop
+105.03,Maestro,www.ebay.com,India,19-05-2019 23:08,2511,Hyderabad,Wrist Watch
+166.13,MasterCard,www.amazon.com,Israel,19-05-2019 12:50,2512,Jerusalem,Pen Drive
+410.22,Maestro,www.amazon.com,France,19-05-2019 08:32,2513,Paris,Text Books
+363.56,Visa,www.amazon.com,Italy,19-05-2019 14:41,2514,Rome,TV Stand
+97.39,Maestro,www.ebay.com,United Kingdom,19-05-2019 09:39,2515,London,Text Books
+514.42,Maestro,www.flipkart.com,India,19-05-2019 16:27,2516,Hyderabad,Mobile Phone
+402.63,Visa,www.flipkart.com,Italy,19-05-2019 03:39,2517,Rome,Wrist Band
+251.39,MasterCard,www.flipkart.com,France,19-05-2019 15:20,2518,Paris,Text Books
+439.51,Maestro,www.flipkart.com,India,19-05-2019 15:48,2519,Pune,TV
+301.11,MasterCard,www.amazon.com,India,19-05-2019 13:53,2520,Mumbai,Wrist Watch
+49.53,MasterCard,www.snapdeal.com,United States,19-05-2019 16:59,2521,New York City,Laptop
+546.73,Visa,www.flipkart.com,India,19-05-2019 10:35,2522,Pune,TV
+139.23,MasterCard,www.snapdeal.com,Israel,19-05-2019 02:06,2523,Jerusalem,Wrist Band
+169.28,Maestro,www.flipkart.com,Inida,19-05-2019 22:11,2524,New Delhi,TV Stand
+218.87,Visa,www.amazon.com,India,19-05-2019 07:56,2525,Bangalore,Text Books
+337.04,Maestro,www.snapdeal.com,Thailand,19-05-2019 14:52,2526,Bangkok,Wrist Watch
+382.05,MasterCard,www.snapdeal.com,France,19-05-2019 07:18,2527,Paris,Pen Drive
+198.85,Visa,www.amazon.com,India,19-05-2019 02:37,2528,Pune,Wrist Watch
+194.18,Maestro,www.snapdeal.com,India,19-05-2019 08:23,2529,Kolkata,TV
+190.18,Visa,www.flipkart.com,India,19-05-2019 17:10,2530,Bangalore,TV
+366.48,Visa,www.amazon.com,United States,19-05-2019 16:24,2531,New York City,Desktop Computer
+452.09,MasterCard,www.snapdeal.com,United Kingdom,19-05-2019 00:01,2532,London,Mobile Phone
+491.19,Maestro,www.ebay.com,India,19-05-2019 18:55,2533,Pune,External Hard Drive
+384.84,Maestro,www.ebay.com,India,19-05-2019 16:40,2534,Kolkata,Laptop
+404.59,Maestro,www.amazon.com,Inida,19-05-2019 01:53,2535,New Delhi,LAN Cable
+264.42,Maestro,www.amazon.com,Singapore,19-05-2019 02:32,2536,Singapore,Wrist Band
+72.79,Visa,www.flipkart.com,India,19-05-2019 11:43,2537,Kolkata,Laptop
+35.38,Maestro,www.amazon.com,Thailand,19-05-2019 12:36,2538,Bangkok,External Hard Drive
+366.36,MasterCard,www.snapdeal.com,United States,19-05-2019 15:40,2539,New York City,TV
+10.82,MasterCard,www.ebay.com,France,19-05-2019 21:04,2540,Paris,LAN Cable
+536.15,MasterCard,www.ebay.com,India,19-05-2019 03:42,2541,Bangalore,Wrist Band
+87.27,Maestro,www.flipkart.com,United Kingdom,19-05-2019 02:30,2542,London,TV Stand
+96.46,Maestro,www.snapdeal.com,Italy,19-05-2019 20:36,2543,Rome,Desktop Computer
+68.16,Visa,www.snapdeal.com,India,19-05-2019 11:31,2544,Pune,TV Stand
+90.53,Visa,www.flipkart.com,India,19-05-2019 05:52,2545,Mumbai,Laptop
+313.06,Visa,www.ebay.com,Inida,19-05-2019 10:41,2546,New Delhi,HDMI Cable
+193.54,Visa,www.ebay.com,India,19-05-2019 07:52,2547,Chennai,TV
+399.52,Maestro,www.flipkart.com,India,19-05-2019 22:31,2548,Pune,TV Stand
+352.22,MasterCard,www.amazon.com,Israel,19-05-2019 09:37,2549,Jerusalem,Wrist Band
+142.62,Maestro,www.amazon.com,India,19-05-2019 09:49,2550,Mumbai,Wrist Watch
+422.65,MasterCard,www.amazon.com,France,19-05-2019 12:08,2551,Paris,TV Stand
+242.79,Visa,www.snapdeal.com,Thailand,19-05-2019 00:13,2552,Bangkok,Wrist Band
+373.51,MasterCard,www.flipkart.com,United States,19-05-2019 03:07,2553,New York City,Laptop
+208.61,Maestro,www.snapdeal.com,France,19-05-2019 23:07,2554,Paris,Pen Drive
+43.94,MasterCard,www.amazon.com,Italy,19-05-2019 00:19,2555,Rome,LAN Cable
+457.99,MasterCard,www.amazon.com,Inida,19-05-2019 19:18,2556,New Delhi,LAN Cable
+213.5,Visa,www.ebay.com,India,19-05-2019 05:30,2557,Kolkata,Laptop
+51.93,MasterCard,www.flipkart.com,Inida,19-05-2019 10:30,2558,New Delhi,External Hard Drive
+22.39,Visa,www.flipkart.com,United States,19-05-2019 12:57,2559,New York City,HDMI Cable
+486.26,Maestro,www.ebay.com,India,19-05-2019 15:14,2560,Chennai,HDMI Cable
+397.06,Maestro,www.flipkart.com,France,19-05-2019 21:47,2561,Paris,Desktop Computer
+324.96,MasterCard,www.amazon.com,Singapore,19-05-2019 06:12,2562,Singapore,TV Stand
+392.22,Maestro,www.flipkart.com,India,19-05-2019 07:21,2563,Pune,TV Stand
+390.73,MasterCard,www.flipkart.com,Inida,19-05-2019 03:00,2564,New Delhi,HDMI Cable
+420.98,Maestro,www.ebay.com,France,19-05-2019 10:49,2565,Paris,Mobile Phone
+400.81,MasterCard,www.flipkart.com,Singapore,19-05-2019 17:35,2566,Singapore,TV Stand
+223.36,Maestro,www.flipkart.com,United Kingdom,19-05-2019 21:03,2567,London,Pen Drive
+340.89,Maestro,www.flipkart.com,Israel,19-05-2019 05:42,2568,Jerusalem,TV Stand
+68.96,Visa,www.ebay.com,Thailand,19-05-2019 04:50,2569,Bangkok,Mobile Phone
+479.56,Maestro,www.snapdeal.com,United Kingdom,19-05-2019 01:50,2570,London,Mobile Phone
+202.77,Visa,www.amazon.com,France,19-05-2019 02:49,2571,Paris,Pen Drive
+333.6,Maestro,www.flipkart.com,India,19-05-2019 10:14,2572,Chennai,Laptop
+294.4,MasterCard,www.snapdeal.com,Thailand,19-05-2019 22:38,2573,Bangkok,Mobile Phone
+278.71,MasterCard,www.flipkart.com,India,19-05-2019 17:20,2574,Bangalore,HDMI Cable
+392.52,Maestro,www.ebay.com,United States,19-05-2019 04:19,2575,New York City,TV
+208.39,MasterCard,www.flipkart.com,India,19-05-2019 00:30,2576,Bangalore,External Hard Drive
+336.3,MasterCard,www.flipkart.com,India,19-05-2019 18:03,2577,Bangalore,Wrist Band
+237.19,Visa,www.snapdeal.com,India,19-05-2019 22:33,2578,Kolkata,Wrist Watch
+365.88,Maestro,www.ebay.com,Israel,19-05-2019 06:57,2579,Jerusalem,TV Stand
+483.05,MasterCard,www.snapdeal.com,India,19-05-2019 22:46,2580,Hyderabad,Wrist Watch
+158.05,Visa,www.ebay.com,Israel,19-05-2019 08:45,2581,Jerusalem,TV
+302.27,Visa,www.amazon.com,United Kingdom,19-05-2019 15:24,2582,London,Wrist Watch
+33.13,MasterCard,www.flipkart.com,Thailand,19-05-2019 09:01,2583,Bangkok,Laptop
+204.35,Maestro,www.amazon.com,Israel,19-05-2019 00:52,2584,Jerusalem,Text Books
+153.37,Maestro,www.flipkart.com,Singapore,19-05-2019 23:15,2585,Singapore,Mobile Phone
+498.91,Maestro,www.flipkart.com,United States,19-05-2019 12:10,2586,New York City,Wrist Band
+464.51,MasterCard,www.amazon.com,India,19-05-2019 10:49,2587,Kolkata,External Hard Drive
+515.49,MasterCard,www.flipkart.com,India,19-05-2019 23:37,2588,Kolkata,HDMI Cable
+118.63,MasterCard,www.flipkart.com,United Kingdom,19-05-2019 04:33,2589,London,LAN Cable
+58.69,Maestro,www.flipkart.com,India,19-05-2019 14:02,2590,Bangalore,HDMI Cable
+444.58,MasterCard,www.flipkart.com,Inida,19-05-2019 19:07,2591,New Delhi,Laptop
+129.02,Visa,www.flipkart.com,India,19-05-2019 08:15,2592,Chennai,LAN Cable
+176.04,Maestro,www.flipkart.com,India,19-05-2019 02:56,2593,Kolkata,HDMI Cable
+76.8,Visa,www.amazon.com,Italy,19-05-2019 13:35,2594,Rome,TV Stand
+529.17,Visa,www.flipkart.com,Thailand,19-05-2019 00:19,2595,Bangkok,Wrist Watch
+197.94,Maestro,www.snapdeal.com,United States,19-05-2019 21:48,2596,New York City,TV Stand
+328.7,MasterCard,www.snapdeal.com,France,19-05-2019 08:16,2597,Paris,HDMI Cable
+549.76,Visa,www.amazon.com,Singapore,19-05-2019 02:19,2598,Singapore,Text Books
+48.04,Maestro,www.ebay.com,India,19-05-2019 02:38,2599,Mumbai,Pen Drive
+261.38,MasterCard,www.amazon.com,India,19-05-2019 01:33,2600,Kolkata,Desktop Computer
+193.89,Maestro,www.ebay.com,India,19-05-2019 23:17,2601,Pune,HDMI Cable
+476.71,MasterCard,www.snapdeal.com,India,19-05-2019 19:55,2602,Chennai,Laptop
+118.97,MasterCard,www.flipkart.com,Italy,19-05-2019 15:06,2603,Rome,HDMI Cable
+493.48,Maestro,www.flipkart.com,Inida,19-05-2019 17:06,2604,New Delhi,LAN Cable
+509.2,Maestro,www.ebay.com,India,19-05-2019 22:29,2605,Kolkata,External Hard Drive
+120.22,MasterCard,www.amazon.com,Italy,19-05-2019 20:15,2606,Rome,Wrist Watch
+545.8,MasterCard,www.amazon.com,India,19-05-2019 17:59,2607,Kolkata,Desktop Computer
+375.45,MasterCard,www.flipkart.com,India,19-05-2019 23:04,2608,Mumbai,Wrist Band
+126.04,Visa,www.flipkart.com,India,19-05-2019 15:01,2609,Hyderabad,Text Books
+327.26,Maestro,www.snapdeal.com,India,19-05-2019 12:36,2610,Kolkata,Mobile Phone
+246.83,Maestro,www.flipkart.com,India,19-05-2019 01:35,2611,Pune,Text Books
+261.76,Visa,www.amazon.com,France,19-05-2019 21:29,2612,Paris,External Hard Drive
+370.37,Visa,www.snapdeal.com,India,19-05-2019 06:09,2613,Hyderabad,Laptop
+40.3,Visa,www.amazon.com,India,19-05-2019 09:03,2614,Pune,Wrist Watch
+107.34,Visa,www.snapdeal.com,India,19-05-2019 14:42,2615,Chennai,Text Books
+481.57,Maestro,www.ebay.com,India,19-05-2019 13:05,2616,Pune,Text Books
+308.69,Visa,www.amazon.com,India,19-05-2019 20:46,2617,Bangalore,Desktop Computer
+258.09,Maestro,www.ebay.com,India,19-05-2019 13:56,2618,Kolkata,LAN Cable
+131.58,Maestro,www.amazon.com,United States,19-05-2019 16:48,2619,New York City,TV Stand
+438.8,MasterCard,www.ebay.com,India,19-05-2019 20:07,2620,Bangalore,Laptop
+549.58,MasterCard,www.flipkart.com,Israel,19-05-2019 23:54,2621,Jerusalem,Wrist Watch
+536.7,Maestro,www.ebay.com,Israel,19-05-2019 17:22,2622,Jerusalem,TV Stand
+310.2,Maestro,www.amazon.com,Thailand,19-05-2019 18:08,2623,Bangkok,Pen Drive
+506.62,Maestro,www.ebay.com,Thailand,19-05-2019 09:55,2624,Bangkok,Laptop
+232.98,MasterCard,www.amazon.com,Singapore,19-05-2019 13:51,2625,Singapore,Pen Drive
+346.1,Maestro,www.flipkart.com,France,19-05-2019 10:04,2626,Paris,Mobile Phone
+463.01,MasterCard,www.amazon.com,United States,19-05-2019 10:53,2627,New York City,Wrist Band
+329.11,Visa,www.amazon.com,India,19-05-2019 10:35,2628,Pune,Wrist Watch
+186.41,Maestro,www.ebay.com,India,19-05-2019 21:00,2629,Mumbai,Desktop Computer
+463.69,MasterCard,www.flipkart.com,France,19-05-2019 04:42,2630,Paris,Mobile Phone
+436.87,MasterCard,www.ebay.com,India,19-05-2019 16:24,2631,Pune,TV Stand
+346.07,Visa,www.snapdeal.com,India,19-05-2019 12:10,2632,Mumbai,Laptop
+108.08,Maestro,www.ebay.com,India,19-05-2019 07:14,2633,Kolkata,External Hard Drive
+264.18,Visa,www.snapdeal.com,France,19-05-2019 15:34,2634,Paris,Desktop Computer
+342.79,Visa,www.snapdeal.com,Singapore,19-05-2019 17:41,2635,Singapore,Text Books
+68.86,Visa,www.flipkart.com,India,19-05-2019 09:57,2636,Pune,HDMI Cable
+540.42,MasterCard,www.amazon.com,India,19-05-2019 07:38,2637,Mumbai,Mobile Phone
+76.39,Visa,www.ebay.com,India,19-05-2019 15:51,2638,Chennai,Laptop
+112.83,Visa,www.flipkart.com,United States,19-05-2019 03:05,2639,New York City,External Hard Drive
+397.44,Visa,www.ebay.com,Inida,19-05-2019 06:08,2640,New Delhi,TV
+248.25,MasterCard,www.snapdeal.com,United Kingdom,19-05-2019 02:54,2641,London,Desktop Computer
+81.94,Maestro,www.snapdeal.com,India,19-05-2019 22:48,2642,Kolkata,TV
+109.02,Maestro,www.ebay.com,Thailand,19-05-2019 05:54,2643,Bangkok,LAN Cable
+389.26,Maestro,www.amazon.com,Singapore,19-05-2019 18:31,2644,Singapore,Text Books
+453.61,MasterCard,www.amazon.com,Italy,19-05-2019 08:23,2645,Rome,Wrist Band
+467.59,Visa,www.amazon.com,India,19-05-2019 19:26,2646,Kolkata,TV
+352.07,Maestro,www.ebay.com,India,19-05-2019 09:04,2647,Mumbai,Pen Drive
+305.42,Maestro,www.ebay.com,Israel,19-05-2019 14:14,2648,Jerusalem,Text Books
+172.88,Visa,www.amazon.com,United Kingdom,19-05-2019 18:09,2649,London,Laptop
+398.01,Maestro,www.snapdeal.com,India,19-05-2019 14:26,2650,Bangalore,TV Stand
+173.82,Visa,www.amazon.com,Thailand,19-05-2019 04:16,2651,Bangkok,Laptop
+72.66,Visa,www.ebay.com,Thailand,19-05-2019 12:20,2652,Bangkok,Wrist Watch
+367.73,MasterCard,www.amazon.com,India,19-05-2019 20:22,2653,Chennai,Text Books
+479.92,Maestro,www.flipkart.com,India,19-05-2019 23:23,2654,Hyderabad,Text Books
+77.79,MasterCard,www.ebay.com,Israel,19-05-2019 16:36,2655,Jerusalem,LAN Cable
+422.02,Maestro,www.flipkart.com,India,19-05-2019 16:31,2656,Pune,Text Books
+311.05,Maestro,www.snapdeal.com,India,19-05-2019 06:43,2657,Hyderabad,External Hard Drive
+490.35,MasterCard,www.ebay.com,India,19-05-2019 03:20,2658,Bangalore,HDMI Cable
+546.57,Visa,www.amazon.com,India,19-05-2019 18:34,2659,Pune,Wrist Band
+108.68,Visa,www.ebay.com,India,19-05-2019 19:04,2660,Hyderabad,Pen Drive
+193.91,Visa,www.amazon.com,United States,19-05-2019 10:07,2661,New York City,TV
+19,Visa,www.flipkart.com,India,19-05-2019 15:29,2662,Mumbai,Laptop
+141.76,Maestro,www.snapdeal.com,France,19-05-2019 05:52,2663,Paris,TV
+186.62,Visa,www.snapdeal.com,India,19-05-2019 22:28,2664,Mumbai,Desktop Computer
+451.51,MasterCard,www.snapdeal.com,India,19-05-2019 08:55,2665,Bangalore,External Hard Drive
+179.76,Maestro,www.amazon.com,Israel,19-05-2019 21:49,2666,Jerusalem,External Hard Drive
+441.63,Maestro,www.flipkart.com,United Kingdom,19-05-2019 13:47,2667,London,LAN Cable
+458.54,Visa,www.flipkart.com,Singapore,19-05-2019 21:23,2668,Singapore,HDMI Cable
+460.34,MasterCard,www.amazon.com,France,19-05-2019 07:32,2669,Paris,Laptop
+516,Maestro,www.amazon.com,United Kingdom,19-05-2019 21:15,2670,London,Wrist Band
+507.53,Maestro,www.ebay.com,France,19-05-2019 04:25,2671,Paris,TV
+188.37,Maestro,www.amazon.com,France,19-05-2019 04:31,2672,Paris,Desktop Computer
+292.23,MasterCard,www.amazon.com,India,19-05-2019 00:22,2673,Chennai,Wrist Band
+52.24,MasterCard,www.snapdeal.com,Thailand,19-05-2019 06:15,2674,Bangkok,Wrist Band
+529.45,MasterCard,www.snapdeal.com,United States,19-05-2019 00:36,2675,New York City,Laptop
+199.88,Visa,www.amazon.com,India,19-05-2019 02:37,2676,Kolkata,External Hard Drive
+474.69,Maestro,www.flipkart.com,India,19-05-2019 09:17,2677,Chennai,Desktop Computer
+551.37,Maestro,www.amazon.com,Singapore,19-05-2019 12:20,2678,Singapore,Text Books
+529.84,Visa,www.amazon.com,United Kingdom,19-05-2019 08:30,2679,London,Mobile Phone
+320.05,MasterCard,www.snapdeal.com,Thailand,19-05-2019 08:17,2680,Bangkok,Pen Drive
+454.85,Maestro,www.amazon.com,India,19-05-2019 21:13,2681,Hyderabad,External Hard Drive
+546.86,Maestro,www.flipkart.com,India,19-05-2019 10:12,2682,Mumbai,Pen Drive
+351.31,MasterCard,www.ebay.com,India,19-05-2019 15:03,2683,Bangalore,TV
+243.23,Visa,www.ebay.com,India,19-05-2019 18:50,2684,Hyderabad,TV Stand
+253.39,MasterCard,www.flipkart.com,Inida,19-05-2019 23:40,2685,New Delhi,LAN Cable
+443.19,MasterCard,www.ebay.com,India,19-05-2019 05:57,2686,Hyderabad,Laptop
+232.74,MasterCard,www.ebay.com,India,19-05-2019 15:25,2687,Chennai,TV
+131.01,MasterCard,www.ebay.com,India,19-05-2019 07:25,2688,Chennai,Wrist Watch
+105.64,Visa,www.snapdeal.com,India,19-05-2019 03:19,2689,Chennai,Wrist Band
+245.81,Maestro,www.amazon.com,Italy,19-05-2019 20:46,2690,Rome,Mobile Phone
+320.67,Visa,www.snapdeal.com,Italy,19-05-2019 23:06,2691,Rome,Text Books
+367.9,MasterCard,www.ebay.com,Italy,19-05-2019 15:53,2692,Rome,HDMI Cable
+112.26,Maestro,www.flipkart.com,Thailand,19-05-2019 10:52,2693,Bangkok,Wrist Band
+507.7,Visa,www.ebay.com,France,19-05-2019 23:43,2694,Paris,Wrist Band
+149.84,Visa,www.snapdeal.com,United Kingdom,19-05-2019 02:47,2695,London,Mobile Phone
+324.57,Maestro,www.amazon.com,Italy,19-05-2019 03:54,2696,Rome,Wrist Band
+123.34,Visa,www.ebay.com,Italy,19-05-2019 10:30,2697,Rome,Pen Drive
+113.16,Visa,www.flipkart.com,India,19-05-2019 17:45,2698,Hyderabad,Mobile Phone
+74.44,MasterCard,www.flipkart.com,India,19-05-2019 04:13,2699,Chennai,HDMI Cable
+229.47,MasterCard,www.ebay.com,United Kingdom,19-05-2019 14:04,2700,London,Desktop Computer
+70.23,Maestro,www.flipkart.com,India,19-05-2019 11:28,2701,Chennai,LAN Cable
+266.65,MasterCard,www.amazon.com,India,19-05-2019 03:32,2702,Mumbai,Pen Drive
+410.29,MasterCard,www.snapdeal.com,India,19-05-2019 23:57,2703,Kolkata,Pen Drive
+208.97,MasterCard,www.ebay.com,Israel,19-05-2019 00:16,2704,Jerusalem,LAN Cable
+319.7,MasterCard,www.amazon.com,Thailand,19-05-2019 02:33,2705,Bangkok,TV Stand
+184.84,Visa,www.flipkart.com,United Kingdom,19-05-2019 20:45,2706,London,Text Books
+295.6,Visa,www.snapdeal.com,Israel,19-05-2019 17:57,2707,Jerusalem,LAN Cable
+19.69,Maestro,www.flipkart.com,United Kingdom,19-05-2019 23:07,2708,London,Pen Drive
+425.48,Visa,www.amazon.com,Israel,19-05-2019 03:44,2709,Jerusalem,Wrist Band
+160.25,Visa,www.snapdeal.com,India,19-05-2019 08:30,2710,Chennai,Mobile Phone
+232.82,Maestro,www.snapdeal.com,Israel,19-05-2019 21:43,2711,Jerusalem,Pen Drive
+137.89,Maestro,www.ebay.com,India,19-05-2019 04:06,2712,Chennai,TV Stand
+505.52,Visa,www.flipkart.com,United Kingdom,19-05-2019 03:39,2713,London,HDMI Cable
+326.11,MasterCard,www.snapdeal.com,India,19-05-2019 09:24,2714,Pune,Mobile Phone
+261.66,Maestro,www.amazon.com,India,19-05-2019 11:49,2715,Kolkata,Pen Drive
+58.02,Visa,www.snapdeal.com,India,19-05-2019 17:43,2716,Bangalore,LAN Cable
+91.83,Maestro,www.snapdeal.com,India,19-05-2019 19:27,2717,Hyderabad,Laptop
+433.58,Visa,www.amazon.com,United States,19-05-2019 15:08,2718,New York City,HDMI Cable
+520.77,Visa,www.ebay.com,India,19-05-2019 09:22,2719,Mumbai,Mobile Phone
+457.79,Maestro,www.amazon.com,Italy,19-05-2019 10:04,2720,Rome,TV
+7.07,Visa,www.snapdeal.com,Singapore,19-05-2019 22:29,2721,Singapore,Text Books
+155.99,Maestro,www.flipkart.com,India,19-05-2019 14:24,2722,Chennai,Text Books
+229.28,Maestro,www.snapdeal.com,Thailand,19-05-2019 04:17,2723,Bangkok,Desktop Computer
+151.16,Maestro,www.flipkart.com,India,19-05-2019 16:05,2724,Bangalore,Pen Drive
+196.01,Visa,www.flipkart.com,India,19-05-2019 13:36,2725,Hyderabad,Mobile Phone
+275.5,Maestro,www.amazon.com,India,19-05-2019 08:50,2726,Chennai,Wrist Watch
+419.04,Visa,www.amazon.com,India,19-05-2019 23:57,2727,Bangalore,Wrist Band
+491.03,Visa,www.amazon.com,Thailand,19-05-2019 23:13,2728,Bangkok,Wrist Watch
+283.71,Visa,www.flipkart.com,Italy,19-05-2019 04:35,2729,Rome,Text Books
+37.03,Maestro,www.snapdeal.com,Israel,19-05-2019 07:24,2730,Jerusalem,TV
+234.44,Maestro,www.flipkart.com,United States,19-05-2019 06:59,2731,New York City,HDMI Cable
+323.47,MasterCard,www.snapdeal.com,India,19-05-2019 11:41,2732,Kolkata,TV
+155.94,Maestro,www.ebay.com,India,19-05-2019 20:36,2733,Mumbai,External Hard Drive
+372.21,Maestro,www.flipkart.com,United Kingdom,19-05-2019 00:39,2734,London,Desktop Computer
+33.08,Visa,www.flipkart.com,France,19-05-2019 11:25,2735,Paris,Wrist Watch
+16.3,MasterCard,www.ebay.com,Israel,19-05-2019 03:04,2736,Jerusalem,Laptop
+428.96,MasterCard,www.snapdeal.com,India,19-05-2019 18:47,2737,Chennai,Wrist Watch
+50.93,Maestro,www.flipkart.com,France,19-05-2019 21:10,2738,Paris,LAN Cable
+393.79,MasterCard,www.amazon.com,India,19-05-2019 20:07,2739,Bangalore,Wrist Band
+346.24,Maestro,www.amazon.com,United Kingdom,19-05-2019 07:21,2740,London,Text Books
+535.74,Maestro,www.snapdeal.com,Thailand,19-05-2019 20:15,2741,Bangkok,Wrist Watch
+391.09,Maestro,www.snapdeal.com,India,19-05-2019 19:55,2742,Mumbai,LAN Cable
+497.2,Visa,www.snapdeal.com,Thailand,19-05-2019 01:02,2743,Bangkok,LAN Cable
+225.38,Visa,www.amazon.com,India,19-05-2019 22:21,2744,Chennai,Pen Drive
+455.59,Visa,www.ebay.com,Israel,19-05-2019 07:31,2745,Jerusalem,Laptop
+246.51,Maestro,www.snapdeal.com,Thailand,19-05-2019 08:23,2746,Bangkok,Laptop
+555.38,MasterCard,www.snapdeal.com,India,19-05-2019 08:38,2747,Pune,LAN Cable
+110.82,Maestro,www.flipkart.com,India,19-05-2019 12:13,2748,Mumbai,Wrist Band
+127.18,Maestro,www.ebay.com,India,19-05-2019 11:57,2749,Pune,Desktop Computer
+242.43,Maestro,www.flipkart.com,India,19-05-2019 07:17,2750,Mumbai,Desktop Computer
+130.89,Visa,www.flipkart.com,Thailand,19-05-2019 00:01,2751,Bangkok,Desktop Computer
+181.84,Visa,www.snapdeal.com,India,19-05-2019 05:18,2752,Bangalore,Wrist Band
+417.79,MasterCard,www.flipkart.com,Inida,19-05-2019 02:32,2753,New Delhi,HDMI Cable
+184.35,MasterCard,www.flipkart.com,United States,19-05-2019 01:42,2754,New York City,Pen Drive
+34.55,Maestro,www.amazon.com,India,19-05-2019 11:51,2755,Chennai,Wrist Watch
+359.15,Maestro,www.flipkart.com,France,19-05-2019 01:06,2756,Paris,TV
+283.7,Maestro,www.amazon.com,India,19-05-2019 05:53,2757,Kolkata,Laptop
+489.74,MasterCard,www.ebay.com,France,19-05-2019 08:20,2758,Paris,Laptop
+531.01,Maestro,www.amazon.com,India,19-05-2019 01:05,2759,Chennai,Desktop Computer
+463.05,Visa,www.amazon.com,Inida,19-05-2019 10:16,2760,New Delhi,Mobile Phone
+484.69,Maestro,www.snapdeal.com,France,19-05-2019 04:35,2761,Paris,Text Books
+452.38,MasterCard,www.amazon.com,India,19-05-2019 13:46,2762,Hyderabad,Text Books
+95.93,MasterCard,www.flipkart.com,India,19-05-2019 22:10,2763,Mumbai,Pen Drive
+427.79,MasterCard,www.amazon.com,United Kingdom,19-05-2019 02:02,2764,London,LAN Cable
+327.95,Visa,www.ebay.com,United Kingdom,19-05-2019 20:45,2765,London,HDMI Cable
+292.42,Maestro,www.amazon.com,Israel,19-05-2019 03:32,2766,Jerusalem,Pen Drive
+324.48,MasterCard,www.amazon.com,France,19-05-2019 07:28,2767,Paris,Laptop
+454.3,MasterCard,www.ebay.com,India,19-05-2019 20:18,2768,Kolkata,Pen Drive
+519.19,MasterCard,www.amazon.com,India,19-05-2019 06:19,2769,Hyderabad,Mobile Phone
+416.7,Maestro,www.ebay.com,Italy,19-05-2019 09:00,2770,Rome,Pen Drive
+551.17,Visa,www.flipkart.com,India,19-05-2019 12:38,2771,Pune,LAN Cable
+247.32,Maestro,www.flipkart.com,Singapore,19-05-2019 18:07,2772,Singapore,Desktop Computer
+512.99,MasterCard,www.snapdeal.com,India,19-05-2019 07:04,2773,Kolkata,Wrist Band
+41.58,Visa,www.ebay.com,Italy,19-05-2019 16:30,2774,Rome,Mobile Phone
+513.55,MasterCard,www.snapdeal.com,India,19-05-2019 03:49,2775,Hyderabad,TV Stand
+439.64,Maestro,www.ebay.com,Inida,19-05-2019 06:36,2776,New Delhi,Wrist Watch
+62.44,Maestro,www.ebay.com,Israel,19-05-2019 13:58,2777,Jerusalem,Pen Drive
+306.84,Visa,www.flipkart.com,United Kingdom,19-05-2019 19:57,2778,London,TV
+467.97,MasterCard,www.ebay.com,Singapore,19-05-2019 23:18,2779,Singapore,External Hard Drive
+539.72,Visa,www.snapdeal.com,India,19-05-2019 12:04,2780,Chennai,TV Stand
+261.86,Maestro,www.amazon.com,India,19-05-2019 22:38,2781,Mumbai,TV
+481.69,Maestro,www.ebay.com,Inida,19-05-2019 15:06,2782,New Delhi,Text Books
+383.66,Visa,www.amazon.com,Israel,19-05-2019 23:32,2783,Jerusalem,Mobile Phone
+10.18,MasterCard,www.ebay.com,Inida,19-05-2019 00:39,2784,New Delhi,Text Books
+279.4,Visa,www.snapdeal.com,Israel,19-05-2019 05:34,2785,Jerusalem,Wrist Watch
+225.53,MasterCard,www.ebay.com,India,19-05-2019 06:51,2786,Mumbai,Pen Drive
+458.88,Visa,www.ebay.com,Israel,19-05-2019 16:42,2787,Jerusalem,HDMI Cable
+20.16,MasterCard,www.ebay.com,India,19-05-2019 14:00,2788,Mumbai,Desktop Computer
+395.76,MasterCard,www.flipkart.com,Israel,19-05-2019 04:43,2789,Jerusalem,TV
+194.53,Visa,www.amazon.com,France,19-05-2019 10:49,2790,Paris,Wrist Band
+254.73,MasterCard,www.flipkart.com,Singapore,19-05-2019 15:11,2791,Singapore,TV Stand
+90.83,MasterCard,www.amazon.com,India,19-05-2019 01:16,2792,Pune,LAN Cable
+204.96,Visa,www.flipkart.com,Thailand,19-05-2019 17:52,2793,Bangkok,Desktop Computer
+200.01,Maestro,www.ebay.com,India,19-05-2019 04:24,2794,Hyderabad,Wrist Band
+111.07,Visa,www.amazon.com,India,19-05-2019 12:40,2795,Chennai,Laptop
+550.55,MasterCard,www.flipkart.com,India,19-05-2019 18:09,2796,Kolkata,Wrist Watch
+322.64,Visa,www.ebay.com,India,19-05-2019 15:41,2797,Bangalore,Laptop
+236.31,MasterCard,www.flipkart.com,Thailand,19-05-2019 17:12,2798,Bangkok,Desktop Computer
+63.48,Maestro,www.flipkart.com,France,19-05-2019 19:47,2799,Paris,Mobile Phone
+379.79,MasterCard,www.ebay.com,Italy,19-05-2019 16:18,2800,Rome,Pen Drive
+304.08,Visa,www.snapdeal.com,Israel,19-05-2019 15:14,2801,Jerusalem,TV Stand
+97.85,Visa,www.snapdeal.com,India,19-05-2019 14:30,2802,Chennai,Pen Drive
+172.51,MasterCard,www.amazon.com,India,19-05-2019 00:42,2803,Bangalore,External Hard Drive
+26.84,Maestro,www.snapdeal.com,Inida,19-05-2019 08:28,2804,New Delhi,Text Books
+296.63,MasterCard,www.flipkart.com,France,19-05-2019 21:17,2805,Paris,Laptop
+249.67,MasterCard,www.amazon.com,United States,19-05-2019 12:28,2806,New York City,Text Books
+138.5,Visa,www.amazon.com,India,19-05-2019 15:42,2807,Chennai,LAN Cable
+105.71,Maestro,www.flipkart.com,United States,19-05-2019 23:26,2808,New York City,Wrist Watch
+549.44,Visa,www.amazon.com,India,19-05-2019 04:12,2809,Kolkata,External Hard Drive
+293.7,Maestro,www.amazon.com,India,19-05-2019 09:57,2810,Bangalore,HDMI Cable
+338.23,Visa,www.amazon.com,India,19-05-2019 07:47,2811,Kolkata,TV Stand
+542.97,Visa,www.flipkart.com,India,19-05-2019 20:04,2812,Pune,TV Stand
+85.41,MasterCard,www.amazon.com,Inida,19-05-2019 16:43,2813,New Delhi,HDMI Cable
+394.57,MasterCard,www.snapdeal.com,United Kingdom,19-05-2019 14:12,2814,London,Wrist Watch
+39.22,Maestro,www.snapdeal.com,Singapore,19-05-2019 11:06,2815,Singapore,Mobile Phone
+455.1,MasterCard,www.amazon.com,Italy,19-05-2019 12:43,2816,Rome,Text Books
+362.68,Visa,www.snapdeal.com,Italy,19-05-2019 12:47,2817,Rome,TV
+208.2,Maestro,www.amazon.com,India,19-05-2019 03:35,2818,Chennai,Laptop
+386.12,Maestro,www.ebay.com,Singapore,19-05-2019 06:41,2819,Singapore,Pen Drive
+181.84,Maestro,www.amazon.com,Israel,19-05-2019 06:53,2820,Jerusalem,LAN Cable
+510.12,Visa,www.amazon.com,India,19-05-2019 09:23,2821,Chennai,HDMI Cable
+511.3,Visa,www.snapdeal.com,Thailand,19-05-2019 13:18,2822,Bangkok,Desktop Computer
+108.69,Visa,www.snapdeal.com,Italy,19-05-2019 14:07,2823,Rome,HDMI Cable
+110.27,Visa,www.snapdeal.com,Thailand,19-05-2019 18:42,2824,Bangkok,LAN Cable
+75.79,Visa,www.ebay.com,India,19-05-2019 10:55,2825,Hyderabad,External Hard Drive
+206.12,Visa,www.flipkart.com,India,19-05-2019 21:53,2826,Bangalore,Pen Drive
+352.46,Visa,www.flipkart.com,Singapore,19-05-2019 12:17,2827,Singapore,TV Stand
+119.2,Visa,www.amazon.com,Israel,19-05-2019 19:20,2828,Jerusalem,Laptop
+31.81,Visa,www.amazon.com,Italy,19-05-2019 15:30,2829,Rome,Laptop
+421.26,MasterCard,www.flipkart.com,India,19-05-2019 13:51,2830,Bangalore,Desktop Computer
+474.75,MasterCard,www.snapdeal.com,Israel,19-05-2019 09:41,2831,Jerusalem,Desktop Computer
+535.54,Visa,www.ebay.com,India,19-05-2019 14:25,2832,Kolkata,External Hard Drive
+320.6,Maestro,www.ebay.com,United Kingdom,19-05-2019 23:07,2833,London,TV Stand
+75.84,Visa,www.amazon.com,Singapore,19-05-2019 19:23,2834,Singapore,LAN Cable
+500.64,Visa,www.ebay.com,Thailand,19-05-2019 05:33,2835,Bangkok,HDMI Cable
+305.72,Maestro,www.snapdeal.com,Italy,19-05-2019 21:04,2836,Rome,Wrist Watch
+360.32,MasterCard,www.amazon.com,Thailand,19-05-2019 21:49,2837,Bangkok,External Hard Drive
+398.9,Maestro,www.snapdeal.com,India,19-05-2019 20:17,2838,Bangalore,Wrist Band
+549.05,MasterCard,www.amazon.com,India,19-05-2019 08:12,2839,Hyderabad,Desktop Computer
+107.4,Visa,www.amazon.com,Thailand,19-05-2019 10:48,2840,Bangkok,Text Books
+212.67,Maestro,www.snapdeal.com,India,19-05-2019 04:33,2841,Bangalore,HDMI Cable
+73.78,Visa,www.amazon.com,India,19-05-2019 06:43,2842,Pune,TV
+550.72,MasterCard,www.ebay.com,Thailand,19-05-2019 14:42,2843,Bangkok,Wrist Band
+515.97,Maestro,www.snapdeal.com,United States,19-05-2019 02:59,2844,New York City,Mobile Phone
+528.38,Visa,www.flipkart.com,France,19-05-2019 02:10,2845,Paris,TV Stand
+129.63,Maestro,www.ebay.com,France,19-05-2019 11:51,2846,Paris,TV Stand
+118.76,MasterCard,www.ebay.com,India,19-05-2019 04:57,2847,Kolkata,Wrist Watch
+21.4,Maestro,www.flipkart.com,Italy,19-05-2019 03:06,2848,Rome,TV
+99.22,Maestro,www.flipkart.com,Inida,19-05-2019 12:40,2849,New Delhi,TV Stand
+553.24,Maestro,www.amazon.com,India,19-05-2019 20:46,2850,Chennai,LAN Cable
+542.57,Visa,www.snapdeal.com,India,19-05-2019 05:15,2851,Kolkata,HDMI Cable
+375.71,MasterCard,www.amazon.com,United Kingdom,19-05-2019 19:43,2852,London,Text Books
+23.2,MasterCard,www.flipkart.com,Thailand,19-05-2019 01:01,2853,Bangkok,Wrist Band
+416.54,Maestro,www.ebay.com,Israel,19-05-2019 13:57,2854,Jerusalem,LAN Cable
+119.88,MasterCard,www.ebay.com,United States,19-05-2019 03:25,2855,New York City,Wrist Band
+309.28,Visa,www.ebay.com,India,19-05-2019 12:22,2856,Hyderabad,External Hard Drive
+369.91,Visa,www.amazon.com,India,19-05-2019 06:01,2857,Bangalore,TV Stand
+548.55,Visa,www.amazon.com,India,19-05-2019 08:43,2858,Bangalore,Text Books
+215.74,MasterCard,www.ebay.com,Inida,19-05-2019 06:17,2859,New Delhi,Wrist Band
+335.92,Visa,www.snapdeal.com,Singapore,19-05-2019 09:42,2860,Singapore,TV
+425.72,Visa,www.ebay.com,India,19-05-2019 17:53,2861,Mumbai,Text Books
+439.61,Visa,www.amazon.com,Italy,19-05-2019 04:06,2862,Rome,Pen Drive
+175.6,Maestro,www.ebay.com,India,19-05-2019 08:21,2863,Pune,Pen Drive
+140.24,MasterCard,www.snapdeal.com,United Kingdom,19-05-2019 22:26,2864,London,HDMI Cable
+248.24,Maestro,www.flipkart.com,India,19-05-2019 18:28,2865,Hyderabad,Mobile Phone
+205.32,Maestro,www.amazon.com,India,19-05-2019 12:56,2866,Pune,Pen Drive
+303.79,Visa,www.amazon.com,United States,19-05-2019 19:15,2867,New York City,Desktop Computer
+286.81,Maestro,www.amazon.com,Israel,19-05-2019 18:38,2868,Jerusalem,LAN Cable
+453.36,Maestro,www.flipkart.com,India,19-05-2019 02:22,2869,Kolkata,TV
+541.22,Maestro,www.snapdeal.com,Inida,19-05-2019 18:30,2870,New Delhi,Text Books
+28.05,Maestro,www.flipkart.com,India,19-05-2019 19:21,2871,Chennai,TV Stand
+511.13,MasterCard,www.amazon.com,India,19-05-2019 06:34,2872,Mumbai,HDMI Cable
+399.84,Maestro,www.flipkart.com,India,19-05-2019 21:52,2873,Kolkata,HDMI Cable
+135.02,Visa,www.flipkart.com,India,19-05-2019 21:49,2874,Chennai,External Hard Drive
+26.79,Visa,www.amazon.com,Singapore,19-05-2019 00:47,2875,Singapore,External Hard Drive
+104.52,Visa,www.flipkart.com,India,19-05-2019 11:45,2876,Pune,HDMI Cable
+428.12,Maestro,www.ebay.com,India,19-05-2019 05:38,2877,Kolkata,Wrist Band
+121.72,Visa,www.snapdeal.com,Singapore,19-05-2019 01:29,2878,Singapore,Desktop Computer
+37.35,Visa,www.snapdeal.com,India,19-05-2019 01:29,2879,Bangalore,Wrist Band
+126.83,Maestro,www.flipkart.com,United Kingdom,19-05-2019 22:38,2880,London,Wrist Band
+363.25,MasterCard,www.flipkart.com,India,19-05-2019 14:12,2881,Bangalore,TV Stand
+123.68,Maestro,www.flipkart.com,India,19-05-2019 08:43,2882,Mumbai,TV Stand
+123.68,Maestro,www.snapdeal.com,Inida,19-05-2019 10:42,2883,New Delhi,Text Books
+115.05,Maestro,www.ebay.com,Israel,19-05-2019 00:19,2884,Jerusalem,Mobile Phone
+447.66,Maestro,www.amazon.com,India,19-05-2019 18:46,2885,Chennai,TV
+346.45,Maestro,www.flipkart.com,India,19-05-2019 23:46,2886,Bangalore,LAN Cable
+160.02,Maestro,www.amazon.com,India,19-05-2019 02:41,2887,Bangalore,External Hard Drive
+140.14,Visa,www.amazon.com,France,19-05-2019 17:17,2888,Paris,Pen Drive
+97.5,Visa,www.flipkart.com,Singapore,19-05-2019 03:37,2889,Singapore,LAN Cable
+409.2,Visa,www.snapdeal.com,Inida,19-05-2019 00:56,2890,New Delhi,Pen Drive
+241.66,Maestro,www.ebay.com,India,19-05-2019 21:41,2891,Bangalore,TV Stand
+504.2,MasterCard,www.flipkart.com,France,19-05-2019 05:39,2892,Paris,Pen Drive
+105.37,MasterCard,www.flipkart.com,India,19-05-2019 11:31,2893,Pune,HDMI Cable
+38.62,Visa,www.snapdeal.com,Israel,19-05-2019 13:08,2894,Jerusalem,Text Books
+395.5,Visa,www.ebay.com,India,19-05-2019 03:04,2895,Chennai,LAN Cable
+547.36,Visa,www.snapdeal.com,India,19-05-2019 13:09,2896,Pune,Text Books
+131.66,Visa,www.flipkart.com,India,19-05-2019 04:53,2897,Bangalore,External Hard Drive
+525.1,Visa,www.snapdeal.com,United Kingdom,19-05-2019 23:37,2898,London,External Hard Drive
+408.76,Maestro,www.amazon.com,Italy,19-05-2019 13:12,2899,Rome,Pen Drive
+31.24,Maestro,www.flipkart.com,India,19-05-2019 06:15,2900,Hyderabad,Pen Drive
+91.84,MasterCard,www.amazon.com,India,19-05-2019 09:57,2901,Bangalore,Wrist Watch
+147.92,Maestro,www.amazon.com,France,19-05-2019 07:07,2902,Paris,LAN Cable
+341.56,Visa,www.flipkart.com,India,19-05-2019 06:28,2903,Hyderabad,TV Stand
+463.84,MasterCard,www.flipkart.com,India,19-05-2019 01:23,2904,Chennai,LAN Cable
+445.03,Visa,www.ebay.com,Inida,19-05-2019 19:16,2905,New Delhi,LAN Cable
+536.82,Visa,www.ebay.com,France,19-05-2019 00:55,2906,Paris,Desktop Computer
+537.53,Maestro,www.flipkart.com,United States,19-05-2019 07:59,2907,New York City,HDMI Cable
+450.76,Maestro,www.snapdeal.com,United Kingdom,19-05-2019 13:18,2908,London,TV Stand
+149.17,MasterCard,www.ebay.com,Singapore,19-05-2019 12:05,2909,Singapore,Wrist Watch
+253.15,Maestro,www.flipkart.com,India,19-05-2019 12:49,2910,Hyderabad,Wrist Band
+145.13,Visa,www.ebay.com,United Kingdom,19-05-2019 06:03,2911,London,Desktop Computer
+34.52,MasterCard,www.snapdeal.com,India,19-05-2019 05:13,2912,Bangalore,TV Stand
+535.91,Visa,www.ebay.com,Israel,19-05-2019 10:18,2913,Jerusalem,Wrist Band
+534.69,Maestro,www.flipkart.com,Singapore,19-05-2019 21:45,2914,Singapore,Desktop Computer
+127.49,Maestro,www.amazon.com,India,19-05-2019 20:04,2915,Hyderabad,LAN Cable
+434.75,MasterCard,www.amazon.com,India,19-05-2019 15:17,2916,Mumbai,HDMI Cable
+202.19,Maestro,www.flipkart.com,India,19-05-2019 07:46,2917,Mumbai,LAN Cable
+550.25,MasterCard,www.ebay.com,India,19-05-2019 21:05,2918,Chennai,HDMI Cable
+144.88,MasterCard,www.snapdeal.com,France,19-05-2019 08:39,2919,Paris,Desktop Computer
+306.78,Maestro,www.amazon.com,Inida,19-05-2019 07:05,2920,New Delhi,External Hard Drive
+375.64,MasterCard,www.flipkart.com,India,19-05-2019 14:15,2921,Mumbai,Wrist Band
+147.04,MasterCard,www.flipkart.com,Inida,19-05-2019 13:24,2922,New Delhi,Wrist Watch
+373.96,MasterCard,www.snapdeal.com,Israel,19-05-2019 21:23,2923,Jerusalem,Pen Drive
+509.19,Visa,www.flipkart.com,United Kingdom,19-05-2019 15:17,2924,London,Desktop Computer
+360.75,Maestro,www.ebay.com,India,19-05-2019 17:10,2925,Kolkata,Text Books
+479.38,MasterCard,www.amazon.com,India,19-05-2019 20:49,2926,Bangalore,LAN Cable
+434.66,Visa,www.flipkart.com,Thailand,19-05-2019 11:19,2927,Bangkok,Text Books
+33.01,Visa,www.flipkart.com,United Kingdom,19-05-2019 14:17,2928,London,HDMI Cable
+128.1,Visa,www.flipkart.com,India,19-05-2019 05:47,2929,Pune,External Hard Drive
+133.33,Visa,www.flipkart.com,Singapore,19-05-2019 02:04,2930,Singapore,Text Books
+389.04,Maestro,www.flipkart.com,India,19-05-2019 17:41,2931,Mumbai,Mobile Phone
+206.2,Visa,www.flipkart.com,India,19-05-2019 22:38,2932,Pune,Pen Drive
+87.17,Visa,www.snapdeal.com,India,19-05-2019 02:20,2933,Mumbai,TV Stand
+82.94,Maestro,www.snapdeal.com,India,19-05-2019 21:54,2934,Chennai,Desktop Computer
+176.95,Maestro,www.ebay.com,India,19-05-2019 12:18,2935,Kolkata,Mobile Phone
+433.81,Visa,www.flipkart.com,India,19-05-2019 17:57,2936,Mumbai,HDMI Cable
+314.31,MasterCard,www.flipkart.com,Inida,19-05-2019 08:09,2937,New Delhi,HDMI Cable
+371.52,MasterCard,www.flipkart.com,Italy,19-05-2019 22:19,2938,Rome,Laptop
+413.05,MasterCard,www.snapdeal.com,India,19-05-2019 17:32,2939,Kolkata,HDMI Cable
+297.13,Maestro,www.amazon.com,India,19-05-2019 17:44,2940,Bangalore,Pen Drive
+303.68,Maestro,www.ebay.com,Thailand,19-05-2019 01:11,2941,Bangkok,Laptop
+165.49,Maestro,www.amazon.com,India,19-05-2019 06:35,2942,Hyderabad,HDMI Cable
+513.03,MasterCard,www.flipkart.com,United Kingdom,19-05-2019 12:53,2943,London,External Hard Drive
+279.08,Maestro,www.amazon.com,India,19-05-2019 17:07,2944,Hyderabad,Laptop
+504.8,MasterCard,www.snapdeal.com,India,19-05-2019 05:32,2945,Bangalore,LAN Cable
+406.58,MasterCard,www.flipkart.com,Thailand,19-05-2019 19:40,2946,Bangkok,LAN Cable
+220.84,Maestro,www.snapdeal.com,India,19-05-2019 21:48,2947,Kolkata,Laptop
+154.76,Visa,www.snapdeal.com,United Kingdom,19-05-2019 00:29,2948,London,Desktop Computer
+505.6,Visa,www.snapdeal.com,India,19-05-2019 12:57,2949,Mumbai,Text Books
+181.89,Visa,www.flipkart.com,Inida,19-05-2019 23:01,2950,New Delhi,Text Books
+147.85,Maestro,www.ebay.com,India,19-05-2019 20:54,2951,Hyderabad,Mobile Phone
+75.48,Maestro,www.snapdeal.com,Italy,19-05-2019 12:31,2952,Rome,TV
+55.15,Maestro,www.ebay.com,India,19-05-2019 07:24,2953,Pune,TV Stand
+423.23,Maestro,www.flipkart.com,India,19-05-2019 02:42,2954,Kolkata,LAN Cable
+352.46,MasterCard,www.flipkart.com,United Kingdom,19-05-2019 16:16,2955,London,Wrist Watch
+485.83,Maestro,www.ebay.com,Israel,19-05-2019 01:10,2956,Jerusalem,Wrist Band
+176.96,Maestro,www.ebay.com,Italy,19-05-2019 05:02,2957,Rome,Wrist Band
+456.73,Maestro,www.flipkart.com,Israel,19-05-2019 15:01,2958,Jerusalem,LAN Cable
+268.05,Visa,www.amazon.com,Inida,19-05-2019 13:23,2959,New Delhi,LAN Cable
+8.29,MasterCard,www.snapdeal.com,India,19-05-2019 08:39,2960,Hyderabad,TV Stand
+42.88,Maestro,www.flipkart.com,France,19-05-2019 23:39,2961,Paris,TV
+32.56,Maestro,www.ebay.com,India,19-05-2019 01:23,2962,Mumbai,Pen Drive
+299.11,MasterCard,www.snapdeal.com,India,19-05-2019 03:12,2963,Kolkata,External Hard Drive
+243.98,MasterCard,www.ebay.com,Inida,19-05-2019 08:36,2964,New Delhi,Pen Drive
+73.26,Maestro,www.amazon.com,India,19-05-2019 13:15,2965,Hyderabad,TV
+152.98,Maestro,www.snapdeal.com,India,19-05-2019 06:25,2966,Pune,TV Stand
+317.6,Maestro,www.amazon.com,India,19-05-2019 22:04,2967,Bangalore,Pen Drive
+501.24,Visa,www.ebay.com,India,19-05-2019 10:39,2968,Chennai,HDMI Cable
+267.95,Visa,www.amazon.com,India,19-05-2019 02:58,2969,Kolkata,Text Books
+135.23,MasterCard,www.snapdeal.com,Italy,19-05-2019 02:52,2970,Rome,TV
+201.6,MasterCard,www.amazon.com,India,19-05-2019 15:00,2971,Kolkata,Pen Drive
+193.71,Visa,www.amazon.com,India,19-05-2019 06:22,2972,Kolkata,LAN Cable
+502.55,MasterCard,www.ebay.com,India,19-05-2019 22:19,2973,Chennai,Wrist Watch
+383.73,Visa,www.flipkart.com,India,19-05-2019 08:22,2974,Hyderabad,TV
+228.81,MasterCard,www.snapdeal.com,Israel,19-05-2019 16:18,2975,Jerusalem,Wrist Band
+534.44,Maestro,www.flipkart.com,Inida,19-05-2019 23:56,2976,New Delhi,TV Stand
+303.75,MasterCard,www.amazon.com,India,19-05-2019 10:45,2977,Hyderabad,External Hard Drive
+246.02,Maestro,www.ebay.com,India,19-05-2019 03:56,2978,Kolkata,Laptop
+545.72,Visa,www.flipkart.com,Thailand,19-05-2019 03:11,2979,Bangkok,Mobile Phone
+519.05,MasterCard,www.flipkart.com,India,19-05-2019 06:18,2980,Hyderabad,Pen Drive
+305.75,Visa,www.snapdeal.com,France,19-05-2019 19:12,2981,Paris,Wrist Watch
+42.3,MasterCard,www.ebay.com,Italy,19-05-2019 14:49,2982,Rome,LAN Cable
+181.4,Maestro,www.flipkart.com,Thailand,19-05-2019 19:54,2983,Bangkok,Text Books
+266.4,Maestro,www.flipkart.com,France,19-05-2019 20:36,2984,Paris,External Hard Drive
+370.75,MasterCard,www.snapdeal.com,India,19-05-2019 10:32,2985,Chennai,Wrist Watch
+409.62,Visa,www.snapdeal.com,Italy,19-05-2019 10:13,2986,Rome,HDMI Cable
+238.6,MasterCard,www.ebay.com,India,19-05-2019 18:34,2987,Kolkata,Mobile Phone
+202.27,Visa,www.amazon.com,Thailand,19-05-2019 21:33,2988,Bangkok,Text Books
+271.47,Maestro,www.flipkart.com,India,19-05-2019 07:43,2989,Pune,Desktop Computer
+302.93,MasterCard,www.amazon.com,Singapore,19-05-2019 13:14,2990,Singapore,Laptop
+342.67,Visa,www.snapdeal.com,India,19-05-2019 23:24,2991,Pune,Mobile Phone
+150.35,Visa,www.snapdeal.com,India,19-05-2019 16:48,2992,Kolkata,Text Books
+509.78,MasterCard,www.amazon.com,France,19-05-2019 13:49,2993,Paris,External Hard Drive
+345.78,Visa,www.flipkart.com,India,19-05-2019 20:14,2994,Kolkata,TV Stand
+188.16,MasterCard,www.amazon.com,India,19-05-2019 22:16,2995,Hyderabad,HDMI Cable
+22.62,Visa,www.ebay.com,France,19-05-2019 05:10,2996,Paris,Wrist Watch
+5.81,Visa,www.ebay.com,India,19-05-2019 00:48,2997,Mumbai,Text Books
+204.51,Visa,www.ebay.com,Thailand,19-05-2019 20:55,2998,Bangkok,Mobile Phone
+467.83,Maestro,www.snapdeal.com,Israel,19-05-2019 09:30,2999,Jerusalem,External Hard Drive
+80.01,Maestro,www.snapdeal.com,India,19-05-2019 19:09,3000,Kolkata,External Hard Drive
